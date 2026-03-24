@@ -4,8 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "node scripts/fetch-puzzles.js && vite build",
+    "preview": "vite preview",
+    "fetch-puzzles": "node scripts/fetch-puzzles.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
