@@ -46,11 +46,17 @@ const SCORE_MAP = [5, 4, 3, 2, 1]
 
 // ── Sub-components ────────────────────────────────────────────────────────────
 
-function TitleCard({ title, fresh }) {
+function TitleCard({ post, fresh, linkVisible }) {
   return (
     <div className={`title-card${fresh ? ' title-card--fresh' : ''}`}>
       <span className="title-card__bullet">▲</span>
-      <span className="title-card__text">{title}</span>
+      <div className="title-card__body">
+        {linkVisible
+          ? <a className="title-card__text title-card__link" href={post.url} target="_blank" rel="noopener noreferrer">{post.title}</a>
+          : <span className="title-card__text">{post.title}</span>
+        }
+        <span className="title-card__date">{post.date}</span>
+      </div>
     </div>
   )
 }
@@ -90,7 +96,7 @@ function GuessInput({ value, onChange, onSubmit, suggestions, onSuggestionClick,
   )
 }
 
-function RoundResult({ answer, score, titleIndex, correct, roundNum, isLast, onNext }) {
+function RoundResult({ answer, score, titleIndex, correct, roundNum, isLast, onNext, posts, shownCount }) {
   const squares = Array(5).fill(null).map((_, i) => {
     if (!correct) return i === 4 ? '❌' : '⬜'
     return i === titleIndex ? '🟩' : '⬜'
@@ -109,6 +115,11 @@ function RoundResult({ answer, score, titleIndex, correct, roundNum, isLast, onN
         {correct
           ? `+${score} point${score !== 1 ? 's' : ''} — guessed on title ${titleIndex + 1}`
           : 'No points this round'}
+      </div>
+      <div className="posts">
+        {posts.slice(0, shownCount).map((post, i) => (
+          <TitleCard key={i} post={post} fresh={false} linkVisible={true} />
+        ))}
       </div>
       <button className="btn-primary" onClick={onNext}>
         {isLast ? 'See final score →' : `Round ${roundNum + 1} →`}
@@ -301,6 +312,8 @@ export default function App() {
           roundNum={round}
           isLast={round === 2}
           onNext={nextRound}
+          posts={currentRound.posts}
+          shownCount={(r?.titleIndex ?? 4) + 1}
         />
       </div>
     )
@@ -327,8 +340,9 @@ export default function App() {
           {visiblePosts.map((post, i) => (
             <TitleCard
               key={i}
-              title={post}
+              post={post}
               fresh={i === visiblePosts.length - 1 && freshTitle}
+              linkVisible={false}
             />
           ))}
         </div>

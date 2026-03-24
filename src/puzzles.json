@@ -3,411 +3,1231 @@
     {
       "name": "mildlyinteresting",
       "posts": [
-        "Our staircase to nowhere, which we use as a bookshelf",
-        "Found a caterpillar death spiral outside my house today",
-        "this censored version of 1984",
-        "Someone’s architectural phone charging wire configuration without touching the ground",
-        "My fiance has a spot that glows green under UV light."
+        {
+          "title": "Our staircase to nowhere, which we use as a bookshelf",
+          "url": "https://reddit.com/r/mildlyinteresting/comments/1rs2tpw/our_staircase_to_nowhere_which_we_use_as_a/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "Found a caterpillar death spiral outside my house today",
+          "url": "https://reddit.com/r/mildlyinteresting/comments/1s01eht/found_a_caterpillar_death_spiral_outside_my_house/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "this censored version of 1984",
+          "url": "https://reddit.com/r/mildlyinteresting/comments/1reakiy/this_censored_version_of_1984/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Someone’s architectural phone charging wire configuration without touching the ground",
+          "url": "https://reddit.com/r/mildlyinteresting/comments/1rfpmk6/someones_architectural_phone_charging_wire/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "My fiance has a spot that glows green under UV light.",
+          "url": "https://reddit.com/r/mildlyinteresting/comments/1rxiw3u/my_fiance_has_a_spot_that_glows_green_under_uv/",
+          "date": "Mar 18, 2026"
+        }
       ]
     },
     {
       "name": "TIFU",
       "posts": [
-        "TIFU paying for sex",
-        "TIFU by trying to be mysterious on a first date and ending up in a police report",
-        "TIFU by accidentally becoming the other woman and falling *naked* in front of his girlfriend",
-        "TIFU by building an app to track how many time my coworkers says ‘circling back’ in meetings. Now whole office uses it",
-        "TIFU by gaslighting myself for 10 years into thinking I was \"caffeine immune\" while drinking ONLY Monster Energy (Zero)"
+        {
+          "title": "TIFU paying for sex",
+          "url": "https://reddit.com/r/tifu/comments/1rgt7us/tifu_paying_for_sex/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "TIFU by trying to be mysterious on a first date and ending up in a police report",
+          "url": "https://reddit.com/r/tifu/comments/1rbqt55/tifu_by_trying_to_be_mysterious_on_a_first_date/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "TIFU by accidentally becoming the other woman and falling *naked* in front of his girlfriend",
+          "url": "https://reddit.com/r/tifu/comments/1rzlkwg/tifu_by_accidentally_becoming_the_other_woman_and/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "TIFU by building an app to track how many time my coworkers says ‘circling back’ in meetings. Now whole office uses it",
+          "url": "https://reddit.com/r/tifu/comments/1rwjlv4/tifu_by_building_an_app_to_track_how_many_time_my/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "TIFU by gaslighting myself for 10 years into thinking I was \"caffeine immune\" while drinking ONLY Monster Energy (Zero)",
+          "url": "https://reddit.com/r/tifu/comments/1s1cq67/tifu_by_gaslighting_myself_for_10_years_into/",
+          "date": "Mar 23, 2026"
+        }
       ]
     },
     {
       "name": "AmItheAsshole",
       "posts": [
-        "AITA? Peed standing up in traffic jam",
-        "AITA for speaking to my (over weight) assistant about her business lunch and making her cry?",
-        "AITA for fixing my daughter’s car when her boyfriend said he’d handle it?",
-        "AITA my friend ruined my yixing teapot and I want her to replace it or give me 500 dollars.",
-        "AITA for buzzing the hair I grew out to be my friends maid of honour while she was on her honeymoon?"
+        {
+          "title": "AITA? Peed standing up in traffic jam",
+          "url": "https://reddit.com/r/AmItheAsshole/comments/1rpww5a/aita_peed_standing_up_in_traffic_jam/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "AITA for speaking to my (over weight) assistant about her business lunch and making her cry?",
+          "url": "https://reddit.com/r/AmItheAsshole/comments/1roz4db/aita_for_speaking_to_my_over_weight_assistant/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "AITA for fixing my daughter’s car when her boyfriend said he’d handle it?",
+          "url": "https://reddit.com/r/AmItheAsshole/comments/1rnmay4/aita_for_fixing_my_daughters_car_when_her/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "AITA my friend ruined my yixing teapot and I want her to replace it or give me 500 dollars.",
+          "url": "https://reddit.com/r/AmItheAsshole/comments/1rcqf4x/aita_my_friend_ruined_my_yixing_teapot_and_i_want/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "AITA for buzzing the hair I grew out to be my friends maid of honour while she was on her honeymoon?",
+          "url": "https://reddit.com/r/AmItheAsshole/comments/1s054t3/aita_for_buzzing_the_hair_i_grew_out_to_be_my/",
+          "date": "Mar 21, 2026"
+        }
       ]
     },
     {
       "name": "AskReddit",
       "posts": [
-        "The president of peace, just launched another war in the Middle East. What are your thoughts?",
-        "Bernie Sanders proposed a bill to tax billionaires, and give $3,000 stimulus checks to Americans that qualify. How do you feel about this?",
-        "What secret can you reveal now that your nda has expired?",
-        "What is the absolute fastest 'yeah, we are definitely NOT going to be friends' moment you've ever experienced with someone?",
-        "What industry is entirely built on a house of cards and would collapse overnight if people realized the truth about it?"
+        {
+          "title": "The president of peace, just launched another war in the Middle East. What are your thoughts?",
+          "url": "https://reddit.com/r/AskReddit/comments/1rgx06k/the_president_of_peace_just_launched_another_war/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Bernie Sanders proposed a bill to tax billionaires, and give $3,000 stimulus checks to Americans that qualify. How do you feel about this?",
+          "url": "https://reddit.com/r/AskReddit/comments/1rnck41/bernie_sanders_proposed_a_bill_to_tax/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "What secret can you reveal now that your nda has expired?",
+          "url": "https://reddit.com/r/AskReddit/comments/1rqk6m8/what_secret_can_you_reveal_now_that_your_nda_has/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "What is the absolute fastest 'yeah, we are definitely NOT going to be friends' moment you've ever experienced with someone?",
+          "url": "https://reddit.com/r/AskReddit/comments/1renmn7/what_is_the_absolute_fastest_yeah_we_are/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Iran says that Trumps 48 hour claim is fake news to manipulate the markets. What do you think?",
+          "url": "https://reddit.com/r/AskReddit/comments/1s1x4ji/iran_says_that_trumps_48_hour_claim_is_fake_news/",
+          "date": "Mar 23, 2026"
+        }
       ]
     },
     {
       "name": "gaming",
       "posts": [
-        "I was really looking forward to this game",
-        "Too Late for support!",
-        "Reminder to utilize your local library",
-        "It was an incredible moment when I was able to take a photo in the heart of CD Projekt in my Judy cosplay💖",
-        "I was panicking. I don't want to talk about it."
+        {
+          "title": "I was really looking forward to this game",
+          "url": "https://reddit.com/r/gaming/comments/1rg5vvv/i_was_really_looking_forward_to_this_game/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "Too Late for support!",
+          "url": "https://reddit.com/r/gaming/comments/1rof5ty/too_late_for_support/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "Reminder to utilize your local library",
+          "url": "https://reddit.com/r/gaming/comments/1s0lrvh/reminder_to_utilize_your_local_library/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "It was an incredible moment when I was able to take a photo in the heart of CD Projekt in my Judy cosplay💖",
+          "url": "https://reddit.com/r/gaming/comments/1rm9gvu/it_was_an_incredible_moment_when_i_was_able_to/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "I was panicking. I don't want to talk about it.",
+          "url": "https://reddit.com/r/gaming/comments/1rgt22q/i_was_panicking_i_dont_want_to_talk_about_it/",
+          "date": "Feb 28, 2026"
+        }
       ]
     },
     {
       "name": "funny",
       "posts": [
-        "An IQ too high?",
-        "If wrestling is fake explain this",
-        "The chances of being peekabooed by The Sphere are low, but never zero.",
-        "Unexpected customer",
-        "Friends in traffic"
+        {
+          "title": "An IQ too high?",
+          "url": "https://reddit.com/r/funny/comments/1rziruh/an_iq_too_high/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "If wrestling is fake explain this",
+          "url": "https://reddit.com/r/funny/comments/1rlhifx/if_wrestling_is_fake_explain_this/",
+          "date": "Mar 5, 2026"
+        },
+        {
+          "title": "The chances of being peekabooed by The Sphere are low, but never zero.",
+          "url": "https://reddit.com/r/funny/comments/1rodiib/the_chances_of_being_peekabooed_by_the_sphere_are/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "Unexpected customer",
+          "url": "https://reddit.com/r/funny/comments/1rhq8gn/unexpected_customer/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Friends in traffic",
+          "url": "https://reddit.com/r/funny/comments/1rjn11s/friends_in_traffic/",
+          "date": "Mar 3, 2026"
+        }
       ]
     },
     {
       "name": "aww",
       "posts": [
-        "These photos are 10 years apart!! from when they were first found in the street and how they are today",
-        "I carry shelter dogs around NYC in a dog backpack to help them get adopted. Meet Walter!",
-        "Same stairs, 10 years later. This time with all the color kissed off.",
-        "My kitten peeking out like a tiny baby under the covers",
-        "My son has a heart on his nose."
+        {
+          "title": "These photos are 10 years apart!! from when they were first found in the street and how they are today",
+          "url": "https://reddit.com/r/aww/comments/1ri8yl1/these_photos_are_10_years_apart_from_when_they/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "I carry shelter dogs around NYC in a dog backpack to help them get adopted. Meet Walter!",
+          "url": "https://reddit.com/r/aww/comments/1rpyddv/i_carry_shelter_dogs_around_nyc_in_a_dog_backpack/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "Same stairs, 10 years later. This time with all the color kissed off.",
+          "url": "https://reddit.com/r/aww/comments/1rcvs3k/same_stairs_10_years_later_this_time_with_all_the/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "My kitten peeking out like a tiny baby under the covers",
+          "url": "https://reddit.com/r/aww/comments/1rsbs58/my_kitten_peeking_out_like_a_tiny_baby_under_the/",
+          "date": "Mar 13, 2026"
+        },
+        {
+          "title": "My son has a heart on his nose.",
+          "url": "https://reddit.com/r/aww/comments/1rgg2v7/my_son_has_a_heart_on_his_nose/",
+          "date": "Feb 27, 2026"
+        }
       ]
     },
     {
       "name": "cats",
       "posts": [
-        "My cat tried to kill himself",
-        "I overslept by 30 minutes and was late with breakfast.",
-        "My best friend👌🏻",
-        "I thought it was an edited picture at first",
-        "7 years with my Middle Eastern girl"
+        {
+          "title": "My cat tried to kill himself",
+          "url": "https://reddit.com/r/cats/comments/1ro93lo/my_cat_tried_to_kill_himself/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "I overslept by 30 minutes and was late with breakfast.",
+          "url": "https://reddit.com/r/cats/comments/1rvc5uo/i_overslept_by_30_minutes_and_was_late_with/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "My best friend👌🏻",
+          "url": "https://reddit.com/r/cats/comments/1rhxnmd/my_best_friend/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "I thought it was an edited picture at first",
+          "url": "https://reddit.com/r/cats/comments/1rul2bp/i_thought_it_was_an_edited_picture_at_first/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "7 years with my Middle Eastern girl",
+          "url": "https://reddit.com/r/cats/comments/1rnphlb/7_years_with_my_middle_eastern_girl/",
+          "date": "Mar 7, 2026"
+        }
       ]
     },
     {
       "name": "programming",
       "posts": [
-        "Tony Hoare, creator of Quicksort &amp; Null, passed away.",
-        "‘Devastating blow’: Atlassian lays off 1,600 workers ahead of AI push",
-        "AWS Middle East Central (mec1-az2) down, apparently struck in war",
-        "Software dev job postings are up 15% since mid 2025",
-        "“Falsehoods Programmers Believe About Time” still the best reminder that time handling is fundamentally broken"
+        {
+          "title": "Tony Hoare, creator of Quicksort &amp; Null, passed away.",
+          "url": "https://reddit.com/r/programming/comments/1rqkp1v/tony_hoare_creator_of_quicksort_null_passed_away/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "‘Devastating blow’: Atlassian lays off 1,600 workers ahead of AI push",
+          "url": "https://reddit.com/r/programming/comments/1rrnsc3/devastating_blow_atlassian_lays_off_1600_workers/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "AWS Middle East Central (mec1-az2) down, apparently struck in war",
+          "url": "https://reddit.com/r/programming/comments/1ri7jpj/aws_middle_east_central_mec1az2_down_apparently/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Software dev job postings are up 15% since mid 2025",
+          "url": "https://reddit.com/r/programming/comments/1s1e4il/software_dev_job_postings_are_up_15_since_mid_2025/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "“Falsehoods Programmers Believe About Time” still the best reminder that time handling is fundamentally broken",
+          "url": "https://reddit.com/r/programming/comments/1rejwmj/falsehoods_programmers_believe_about_time_still/",
+          "date": "Feb 25, 2026"
+        }
       ]
     },
     {
       "name": "todayilearned",
       "posts": [
-        "TIL that Cancún didn’t exist until 1970, its location was chosen using early computer models to identify a suitable place for a new resort city. The area had only three residents at the time.",
-        "TIL in 2023 Disney made more profit from churros sales at its theme parks than it did for Disney+ streaming.",
-        "TIL when Yuri Gagarin (the first person in space) landed on earth he had to ask where a phone was in order to let people know he was back on Earth",
-        "TIL that Kansai International Airport in Japan reached its 30th year of service without having ever lost a single piece of luggage.",
-        "TIL that Ram 2500 drivers have the most DUIs, and more than twice the national average. Roughly 1 in 22 Ram 2500 drivers have been cited with a DUI before."
+        {
+          "title": "TIL that Cancún didn’t exist until 1970, its location was chosen using early computer models to identify a suitable place for a new resort city. The area had only three residents at the time.",
+          "url": "https://reddit.com/r/todayilearned/comments/1reiiu5/til_that_cancún_didnt_exist_until_1970_its/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "TIL in 2023 Disney made more profit from churros sales at its theme parks than it did for Disney+ streaming.",
+          "url": "https://reddit.com/r/todayilearned/comments/1ro9txn/til_in_2023_disney_made_more_profit_from_churros/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "TIL when Yuri Gagarin (the first person in space) landed on earth he had to ask where a phone was in order to let people know he was back on Earth",
+          "url": "https://reddit.com/r/todayilearned/comments/1ru2rgf/til_when_yuri_gagarin_the_first_person_in_space/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "TIL that Kansai International Airport in Japan reached its 30th year of service without having ever lost a single piece of luggage.",
+          "url": "https://reddit.com/r/todayilearned/comments/1rdfvux/til_that_kansai_international_airport_in_japan/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "TIL that Ram 2500 drivers have the most DUIs, and more than twice the national average. Roughly 1 in 22 Ram 2500 drivers have been cited with a DUI before.",
+          "url": "https://reddit.com/r/todayilearned/comments/1ry2m6k/til_that_ram_2500_drivers_have_the_most_duis_and/",
+          "date": "Mar 19, 2026"
+        }
       ]
     },
     {
       "name": "Showerthoughts",
       "posts": [
-        "If you are an identical twin, there is a non-zero chance your parents got you confused for your sibling as an infant, so you aren't who you think you are.",
-        "If the \"use it or lose it\" theory of neuroscience is correct, then we're going to have an absolute explosion of AI-induced Alzheimers in the future.",
-        "You don’t realize how much of your personality is built around avoiding discomfort until you try to change.",
-        "Phone cameras need a \"junk photo\" setting for all those throwaway photos you take to remember where you parked, what's on a menu, QR codes, and all the other random stuff we use them for now.",
-        "You'd think evolution would have stopped snoring long ago: being loud at night while sleeping seems like a bad survival strategy."
+        {
+          "title": "If you are an identical twin, there is a non-zero chance your parents got you confused for your sibling as an infant, so you aren't who you think you are.",
+          "url": "https://reddit.com/r/Showerthoughts/comments/1rd9cv5/if_you_are_an_identical_twin_there_is_a_nonzero/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "If the \"use it or lose it\" theory of neuroscience is correct, then we're going to have an absolute explosion of AI-induced Alzheimers in the future.",
+          "url": "https://reddit.com/r/Showerthoughts/comments/1ripyn0/if_the_use_it_or_lose_it_theory_of_neuroscience/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "You don’t realize how much of your personality is built around avoiding discomfort until you try to change.",
+          "url": "https://reddit.com/r/Showerthoughts/comments/1riddqk/you_dont_realize_how_much_of_your_personality_is/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Phone cameras need a \"junk photo\" setting for all those throwaway photos you take to remember where you parked, what's on a menu, QR codes, and all the other random stuff we use them for now.",
+          "url": "https://reddit.com/r/Showerthoughts/comments/1rrxgf9/phone_cameras_need_a_junk_photo_setting_for_all/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "You'd think evolution would have stopped snoring long ago: being loud at night while sleeping seems like a bad survival strategy.",
+          "url": "https://reddit.com/r/Showerthoughts/comments/1re7h1m/youd_think_evolution_would_have_stopped_snoring/",
+          "date": "Feb 25, 2026"
+        }
       ]
     },
     {
       "name": "LifeProTips",
       "posts": [
-        "LPT: At a gathering, if you see someone standing alone, give them a tiny job for 30 seconds so they have a reason to exist there.",
-        "LPT: If your schedule allows it, take your lunch break as late as possible. It makes the workday feel shorter.",
-        "LPT: When major world events happen, always check account ages",
-        "LPT - If someone keeps twisting your words, stop explaining. Ask them to repeat your point back in one sentence.",
-        "LPT: When you introduce two people, give them one shared hook so they can talk without awkwardness."
+        {
+          "title": "LPT: At a gathering, if you see someone standing alone, give them a tiny job for 30 seconds so they have a reason to exist there.",
+          "url": "https://reddit.com/r/LifeProTips/comments/1rj7m2g/lpt_at_a_gathering_if_you_see_someone_standing/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "LPT: If your schedule allows it, take your lunch break as late as possible. It makes the workday feel shorter.",
+          "url": "https://reddit.com/r/LifeProTips/comments/1rbvgjs/lpt_if_your_schedule_allows_it_take_your_lunch/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "LPT: When major world events happen, always check account ages",
+          "url": "https://reddit.com/r/LifeProTips/comments/1rh6hkq/lpt_when_major_world_events_happen_always_check/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "LPT - If someone keeps twisting your words, stop explaining. Ask them to repeat your point back in one sentence.",
+          "url": "https://reddit.com/r/LifeProTips/comments/1rndaql/lpt_if_someone_keeps_twisting_your_words_stop/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "LPT: When you introduce two people, give them one shared hook so they can talk without awkwardness.",
+          "url": "https://reddit.com/r/LifeProTips/comments/1rfuo36/lpt_when_you_introduce_two_people_give_them_one/",
+          "date": "Feb 27, 2026"
+        }
       ]
     },
     {
       "name": "relationship_advice",
       "posts": [
-        "My husband 36M poops too much for me 36F to feel comfortable having another baby with him",
-        "I Genially Think My (35F) Husband (36M) is a Psychopath",
-        "I 34F woke up to a message about my 35M husband",
-        "My partner (f34) “quiet quit” our relationship and I (m37) need closure.",
-        "My (23F) Boyfriend (24M) got really jacked and now I’m no longer attracted to him"
+        {
+          "title": "My husband 36M poops too much for me 36F to feel comfortable having another baby with him",
+          "url": "https://reddit.com/r/relationship_advice/comments/1rimv86/my_husband_36m_poops_too_much_for_me_36f_to_feel/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "I Genially Think My (35F) Husband (36M) is a Psychopath",
+          "url": "https://reddit.com/r/relationship_advice/comments/1rosj4z/i_genially_think_my_35f_husband_36m_is_a/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "I 34F woke up to a message about my 35M husband",
+          "url": "https://reddit.com/r/relationship_advice/comments/1rva5s7/i_34f_woke_up_to_a_message_about_my_35m_husband/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "My partner (f34) “quiet quit” our relationship and I (m37) need closure.",
+          "url": "https://reddit.com/r/relationship_advice/comments/1s0hc2v/my_partner_f34_quiet_quit_our_relationship_and_i/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "My (23F) Boyfriend (24M) got really jacked and now I’m no longer attracted to him",
+          "url": "https://reddit.com/r/relationship_advice/comments/1ribzou/my_23f_boyfriend_24m_got_really_jacked_and_now_im/",
+          "date": "Mar 1, 2026"
+        }
       ]
     },
     {
       "name": "personalfinance",
       "posts": [
-        "Im homeless living out of a $35k truck what should I do first",
-        "My girlfriend (27) has $70k sitting in cash and no investments, what would you do?",
-        "Protecting myself from my soon to be ex-fiancée",
-        "Bank is closing my account with life savings in it, what’s the best way of getting my money to another bank safely?",
-        "Realized my extra car loan payments have been going to next payment instead of principal"
+        {
+          "title": "Im homeless living out of a $35k truck what should I do first",
+          "url": "https://reddit.com/r/personalfinance/comments/1rvh2z4/im_homeless_living_out_of_a_35k_truck_what_should/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "My girlfriend (27) has $70k sitting in cash and no investments, what would you do?",
+          "url": "https://reddit.com/r/personalfinance/comments/1rx7hv0/my_girlfriend_27_has_70k_sitting_in_cash_and_no/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "Protecting myself from my soon to be ex-fiancée",
+          "url": "https://reddit.com/r/personalfinance/comments/1rf5wpx/protecting_myself_from_my_soon_to_be_exfiancée/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "Bank is closing my account with life savings in it, what’s the best way of getting my money to another bank safely?",
+          "url": "https://reddit.com/r/personalfinance/comments/1rp9jih/bank_is_closing_my_account_with_life_savings_in/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "Realized my extra car loan payments have been going to next payment instead of principal",
+          "url": "https://reddit.com/r/personalfinance/comments/1rtrgn3/realized_my_extra_car_loan_payments_have_been/",
+          "date": "Mar 14, 2026"
+        }
       ]
     },
     {
       "name": "dataisbeautiful",
       "posts": [
-        "[OC] Most flights connecting Europe to Asia now have to route through a tiny passage over Armenia and Azerbaijan",
-        "[OC] 3 Month Update: r-Conservative adds a third super-poster making it even less diverse. 3 posters now account for 50% of all posts since 11/20/2025. Sometimes exceeding 60%.",
-        "[OC] Gold Medals won at the 2026 Winter Olympics",
-        "How an estimated $151M splits when a solo dev sells 10M copies on Steam [OC]",
-        "Trump Admin gained an estimated +182% on its stock buys since July 2025 [OC]"
+        {
+          "title": "[OC] Most flights connecting Europe to Asia now have to route through a tiny passage over Armenia and Azerbaijan",
+          "url": "https://reddit.com/r/dataisbeautiful/comments/1ro4f7i/oc_most_flights_connecting_europe_to_asia_now/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "[OC] 3 Month Update: r-Conservative adds a third super-poster making it even less diverse. 3 posters now account for 50% of all posts since 11/20/2025. Sometimes exceeding 60%.",
+          "url": "https://reddit.com/r/dataisbeautiful/comments/1rfe0nh/oc_3_month_update_rconservative_adds_a_third/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "[OC] Gold Medals won at the 2026 Winter Olympics",
+          "url": "https://reddit.com/r/dataisbeautiful/comments/1rc01vs/oc_gold_medals_won_at_the_2026_winter_olympics/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "How an estimated $151M splits when a solo dev sells 10M copies on Steam [OC]",
+          "url": "https://reddit.com/r/dataisbeautiful/comments/1rtyc9e/how_an_estimated_151m_splits_when_a_solo_dev/",
+          "date": "Mar 14, 2026"
+        },
+        {
+          "title": "Trump Admin gained an estimated +182% on its stock buys since July 2025 [OC]",
+          "url": "https://reddit.com/r/dataisbeautiful/comments/1rfdzy0/trump_admin_gained_an_estimated_182_on_its_stock/",
+          "date": "Feb 26, 2026"
+        }
       ]
     },
     {
       "name": "science",
       "posts": [
-        "Experts say there is no overdiagnosis of ADHD. Instead, they are warning that far from being overdiagnosed, people with ADHD are waiting too long for assessment, support, and treatment",
-        "Colon cancer now leading cause of cancer deaths under 50 in US",
-        "Scientists have demonstrated a system called Silica for writing and reading information in ordinary pieces of glass which can store two million books’ worth of data in a thin, palm-sized square.",
-        "A new finds that a majority of people across the globe favor protecting the environment over growing the economy when the two goals conflict",
-        "Left-leaning support for redistribution stems from perceived unfairness rather than malicious envy"
+        {
+          "title": "Experts say there is no overdiagnosis of ADHD. Instead, they are warning that far from being overdiagnosed, people with ADHD are waiting too long for assessment, support, and treatment",
+          "url": "https://reddit.com/r/science/comments/1rndt08/experts_say_there_is_no_overdiagnosis_of_adhd/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "Colon cancer now leading cause of cancer deaths under 50 in US",
+          "url": "https://reddit.com/r/science/comments/1rrr9ow/colon_cancer_now_leading_cause_of_cancer_deaths/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "Scientists have demonstrated a system called Silica for writing and reading information in ordinary pieces of glass which can store two million books’ worth of data in a thin, palm-sized square.",
+          "url": "https://reddit.com/r/science/comments/1rbule0/scientists_have_demonstrated_a_system_called/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "A new finds that a majority of people across the globe favor protecting the environment over growing the economy when the two goals conflict",
+          "url": "https://reddit.com/r/science/comments/1rwz9es/a_new_finds_that_a_majority_of_people_across_the/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "Left-leaning support for redistribution stems from perceived unfairness rather than malicious envy",
+          "url": "https://reddit.com/r/science/comments/1s1ewbp/leftleaning_support_for_redistribution_stems_from/",
+          "date": "Mar 23, 2026"
+        }
       ]
     },
     {
       "name": "space",
       "posts": [
-        "My space potatoes, grown aboard the ISS",
-        "The Moon and clouds above Guatemala in 2019",
-        "Our Milky Way, seen from the ISS",
-        "Starlink satellites seen from ISS by long exposure",
-        "Lithium Plume in Our Atmosphere Traced Back to Returning SpaceX Rocket | This could quickly get out of hand."
+        {
+          "title": "My space potatoes, grown aboard the ISS",
+          "url": "https://reddit.com/r/space/comments/1s0xpbe/my_space_potatoes_grown_aboard_the_iss/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "The Moon and clouds above Guatemala in 2019",
+          "url": "https://reddit.com/r/space/comments/1s0ip7m/the_moon_and_clouds_above_guatemala_in_2019/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "Our Milky Way, seen from the ISS",
+          "url": "https://reddit.com/r/space/comments/1ruh65g/our_milky_way_seen_from_the_iss/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "Starlink satellites seen from ISS by long exposure",
+          "url": "https://reddit.com/r/space/comments/1ridz3e/starlink_satellites_seen_from_iss_by_long_exposure/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Lithium Plume in Our Atmosphere Traced Back to Returning SpaceX Rocket | This could quickly get out of hand.",
+          "url": "https://reddit.com/r/space/comments/1rchig9/lithium_plume_in_our_atmosphere_traced_back_to/",
+          "date": "Feb 23, 2026"
+        }
       ]
     },
     {
       "name": "DIY",
       "posts": [
-        "I have a double concrete utility sink that I’m trying to get out of my basement without using a sledgehammer to break it into pieces. Any advice is appreciated.",
-        "Carpeted pine stairs → sanded and stained wood (first woodworking project from start to finish)",
-        "Bookshelf for the in-laws",
-        "What do I do next?",
-        "You and your partner just moved in, you tearing down the panels, painting, or leaving?!"
+        {
+          "title": "I have a double concrete utility sink that I’m trying to get out of my basement without using a sledgehammer to break it into pieces. Any advice is appreciated.",
+          "url": "https://reddit.com/r/DIY/comments/1ricyax/i_have_a_double_concrete_utility_sink_that_im/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Carpeted pine stairs → sanded and stained wood (first woodworking project from start to finish)",
+          "url": "https://reddit.com/r/DIY/comments/1rr5bre/carpeted_pine_stairs_sanded_and_stained_wood/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "Bookshelf for the in-laws",
+          "url": "https://reddit.com/r/DIY/comments/1rgqy9z/bookshelf_for_the_inlaws/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "What do I do next?",
+          "url": "https://reddit.com/r/DIY/comments/1rkvkk3/what_do_i_do_next/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "You and your partner just moved in, you tearing down the panels, painting, or leaving?!",
+          "url": "https://reddit.com/r/DIY/comments/1ruh3kk/you_and_your_partner_just_moved_in_you_tearing/",
+          "date": "Mar 15, 2026"
+        }
       ]
     },
     {
       "name": "food",
       "posts": [
-        "[Homemade] Sunday fry up",
-        "[homemade] cock oven",
-        "[homemade] Fauxlet-O-Fish",
-        "[I ate] 19 bowls of ramen across Japan in 1 month.",
-        "[I ate] Pepperoni pizza with whipped hot honey ricotta."
+        {
+          "title": "[homemade] cock oven",
+          "url": "https://reddit.com/r/food/comments/1s1hmyt/homemade_cock_oven/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "[Homemade] Sunday fry up",
+          "url": "https://reddit.com/r/food/comments/1ri3m8t/homemade_sunday_fry_up/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "[homemade] Fauxlet-O-Fish",
+          "url": "https://reddit.com/r/food/comments/1rj6h1h/homemade_fauxletofish/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "[I ate] 19 bowls of ramen across Japan in 1 month.",
+          "url": "https://reddit.com/r/food/comments/1rq7egu/i_ate_19_bowls_of_ramen_across_japan_in_1_month/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "[I ate] Pepperoni pizza with whipped hot honey ricotta.",
+          "url": "https://reddit.com/r/food/comments/1rgkly7/i_ate_pepperoni_pizza_with_whipped_hot_honey/",
+          "date": "Feb 27, 2026"
+        }
       ]
     },
     {
       "name": "fitness",
       "posts": [
-        "Gym Story Saturday",
-        "Gym Story Saturday",
-        "Rant Wednesday - February 25, 2026",
-        "Rant Wednesday - March 04, 2026",
-        "Rant Wednesday - March 11, 2026"
+        {
+          "title": "Gym Story Saturday",
+          "url": "https://reddit.com/r/Fitness/comments/1rn4mg8/gym_story_saturday/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "Gym Story Saturday",
+          "url": "https://reddit.com/r/Fitness/comments/1rgx1w3/gym_story_saturday/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Rant Wednesday - February 25, 2026",
+          "url": "https://reddit.com/r/Fitness/comments/1re97my/rant_wednesday_february_25_2026/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Rant Wednesday - March 04, 2026",
+          "url": "https://reddit.com/r/Fitness/comments/1rkhjf4/rant_wednesday_march_04_2026/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "Rant Wednesday - March 11, 2026",
+          "url": "https://reddit.com/r/Fitness/comments/1rqolso/rant_wednesday_march_11_2026/",
+          "date": "Mar 11, 2026"
+        }
       ]
     },
     {
       "name": "travel",
       "posts": [
-        "1 month in Oaxaca, Mexico February 2026",
-        "4.5 months in New Zealand",
-        "2 weeks in Japan",
-        "I am under a shelter-in-place order near Puerto Vallarta and my Airbnb reservation ends tomorrow. What do I do?",
-        "Do people no longer research countries they want to visit?"
+        {
+          "title": "1 month in Oaxaca, Mexico February 2026",
+          "url": "https://reddit.com/r/travel/comments/1rbr4ho/1_month_in_oaxaca_mexico_february_2026/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "4.5 months in New Zealand",
+          "url": "https://reddit.com/r/travel/comments/1rflb38/45_months_in_new_zealand/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "2 weeks in Japan",
+          "url": "https://reddit.com/r/travel/comments/1rp1gxw/2_weeks_in_japan/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "I am under a shelter-in-place order near Puerto Vallarta and my Airbnb reservation ends tomorrow. What do I do?",
+          "url": "https://reddit.com/r/travel/comments/1rc7jud/i_am_under_a_shelterinplace_order_near_puerto/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Do people no longer research countries they want to visit?",
+          "url": "https://reddit.com/r/travel/comments/1re91h2/do_people_no_longer_research_countries_they_want/",
+          "date": "Feb 25, 2026"
+        }
       ]
     },
     {
       "name": "photography",
       "posts": [
-        "Pentagon bars press photographers over ‘unflattering’ Hegseth photos",
-        "I Got Paid $1,500 For A Stolen Photo",
-        "paid photographer $10k and got obviously AI edited photos, reasonable to be mad?",
-        "Are people leaving Instagram for photography?",
-        "Can someone pleeeeeeease explain the fascination with Leica cameras?"
+        {
+          "title": "Pentagon bars press photographers over ‘unflattering’ Hegseth photos",
+          "url": "https://reddit.com/r/photography/comments/1rqya6g/pentagon_bars_press_photographers_over/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "I Got Paid $1,500 For A Stolen Photo",
+          "url": "https://reddit.com/r/photography/comments/1rh50y5/i_got_paid_1500_for_a_stolen_photo/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "paid photographer $10k and got obviously AI edited photos, reasonable to be mad?",
+          "url": "https://reddit.com/r/photography/comments/1rz0dmc/paid_photographer_10k_and_got_obviously_ai_edited/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "Are people leaving Instagram for photography?",
+          "url": "https://reddit.com/r/photography/comments/1ryafio/are_people_leaving_instagram_for_photography/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "Can someone pleeeeeeease explain the fascination with Leica cameras?",
+          "url": "https://reddit.com/r/photography/comments/1rsp68k/can_someone_pleeeeeeease_explain_the_fascination/",
+          "date": "Mar 13, 2026"
+        }
       ]
     },
     {
       "name": "movies",
       "posts": [
-        "Chuck Norris, Action Icon and ‘Walker Texas Ranger’ Star, Dies at 86",
-        "First Image of Timothée Chalamet in ‘DUNE: PART THREE’",
-        "Michael B. Jordan Wins the Academy Award for Best Actor for 'Sinners'",
-        "Official Character Posters for 'Dune: Part Three'",
-        "War of the Worlds (2005, Dir. Steven Spielberg) | The tripods start attacking humanity"
+        {
+          "title": "Chuck Norris, Action Icon and ‘Walker Texas Ranger’ Star, Dies at 86",
+          "url": "https://reddit.com/r/movies/comments/1rywylg/chuck_norris_action_icon_and_walker_texas_ranger/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "First Image of Timothée Chalamet in ‘DUNE: PART THREE’",
+          "url": "https://reddit.com/r/movies/comments/1rvm6s0/first_image_of_timothée_chalamet_in_dune_part/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "Michael B. Jordan Wins the Academy Award for Best Actor for 'Sinners'",
+          "url": "https://reddit.com/r/movies/comments/1rux8ke/michael_b_jordan_wins_the_academy_award_for_best/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "Official Character Posters for 'Dune: Part Three'",
+          "url": "https://reddit.com/r/movies/comments/1rvpdzp/official_character_posters_for_dune_part_three/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "War of the Worlds (2005, Dir. Steven Spielberg) | The tripods start attacking humanity",
+          "url": "https://reddit.com/r/movies/comments/1rc2258/war_of_the_worlds_2005_dir_steven_spielberg_the/",
+          "date": "Feb 23, 2026"
+        }
       ]
     },
     {
       "name": "television",
       "posts": [
-        "Tourette syndrome activist John Davidson says Bafta told him ‘any swearing would be edited out of the broadcast’",
-        "John Oliver Says Paramount Buying Warner Bros. Is ‘Not Great News: ‘How the F—Do I Get Out of Here?’",
-        "Chuck Norris Dead at 86",
-        "Catherine O’Hara Wins Actor Award for ‘The Studio’ Posthumously and Earns Huge Standing Ovation",
-        "'19 Kids and Counting' star Joseph Duggar arrested on child molestation charges"
+        {
+          "title": "Tourette syndrome activist John Davidson says Bafta told him ‘any swearing would be edited out of the broadcast’",
+          "url": "https://reddit.com/r/television/comments/1reb9lk/tourette_syndrome_activist_john_davidson_says/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "John Oliver Says Paramount Buying Warner Bros. Is ‘Not Great News: ‘How the F—Do I Get Out of Here?’",
+          "url": "https://reddit.com/r/television/comments/1rikkqz/john_oliver_says_paramount_buying_warner_bros_is/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Chuck Norris Dead at 86",
+          "url": "https://reddit.com/r/television/comments/1rywz89/chuck_norris_dead_at_86/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "Catherine O’Hara Wins Actor Award for ‘The Studio’ Posthumously and Earns Huge Standing Ovation",
+          "url": "https://reddit.com/r/television/comments/1rifmnd/catherine_ohara_wins_actor_award_for_the_studio/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "'19 Kids and Counting' star Joseph Duggar arrested on child molestation charges",
+          "url": "https://reddit.com/r/television/comments/1rxm6d8/19_kids_and_counting_star_joseph_duggar_arrested/",
+          "date": "Mar 19, 2026"
+        }
       ]
     },
     {
       "name": "books",
       "posts": [
-        "Dan Simmons, author of The Terror and the Hyperion Cantos, has passed away",
-        "A writer is suing Grammarly for turning her and other authors into 'AI editors' without consent",
-        "Only 10% of boys aged 14-16 read daily for pleasure, National Literacy Trust finds",
-        "Children’s vocabulary shrinking as reading loses out to screen time, says Susie Dent",
-        "Pettiest reason you’ve DNF’d a book?"
+        {
+          "title": "Dan Simmons, author of The Terror and the Hyperion Cantos, has passed away",
+          "url": "https://reddit.com/r/books/comments/1rgdd5q/dan_simmons_author_of_the_terror_and_the_hyperion/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "A writer is suing Grammarly for turning her and other authors into 'AI editors' without consent",
+          "url": "https://reddit.com/r/books/comments/1rt1tco/a_writer_is_suing_grammarly_for_turning_her_and/",
+          "date": "Mar 13, 2026"
+        },
+        {
+          "title": "Only 10% of boys aged 14-16 read daily for pleasure, National Literacy Trust finds",
+          "url": "https://reddit.com/r/books/comments/1rcg7ys/only_10_of_boys_aged_1416_read_daily_for_pleasure/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Children’s vocabulary shrinking as reading loses out to screen time, says Susie Dent",
+          "url": "https://reddit.com/r/books/comments/1rcppog/childrens_vocabulary_shrinking_as_reading_loses/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Pettiest reason you’ve DNF’d a book?",
+          "url": "https://reddit.com/r/books/comments/1ri3zhm/pettiest_reason_youve_dnfd_a_book/",
+          "date": "Mar 1, 2026"
+        }
       ]
     },
     {
       "name": "Minecraft",
       "posts": [
-        "My attempt at the Minecraft cake in real life",
-        "i mede minecraft cookies",
-        "Enderman &amp; the rain [OC]",
-        "Optimise the game for Switch 2❌Add in-game advertisements✅",
-        "A special use for chainmail armor - The chainmail helmet should instabreak sand/gravel falling on top of the player."
+        {
+          "title": "My attempt at the Minecraft cake in real life",
+          "url": "https://reddit.com/r/Minecraft/comments/1rxfcfr/my_attempt_at_the_minecraft_cake_in_real_life/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "i mede minecraft cookies",
+          "url": "https://reddit.com/r/Minecraft/comments/1rj0w50/i_mede_minecraft_cookies/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Enderman &amp; the rain [OC]",
+          "url": "https://reddit.com/r/Minecraft/comments/1rdix1s/enderman_the_rain_oc/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "Optimise the game for Switch 2❌Add in-game advertisements✅",
+          "url": "https://reddit.com/r/Minecraft/comments/1rqczkq/optimise_the_game_for_switch_2add_ingame/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "A special use for chainmail armor - The chainmail helmet should instabreak sand/gravel falling on top of the player.",
+          "url": "https://reddit.com/r/Minecraft/comments/1rljjd4/a_special_use_for_chainmail_armor_the_chainmail/",
+          "date": "Mar 5, 2026"
+        }
       ]
     },
     {
       "name": "leagueoflegends",
       "posts": [
-        "Gen.G vs. G2 Esports / First Stand 2026 - Semi-Finals / Post-Match Discussion",
-        "I (disabled gamer) attempted to come back to league after a few years of being away only to have the anti cheat not allow joy to key mouse movements. Now i can't play",
-        "I felt like Faker after this Zed 1v2 at dragon",
-        "Rekkles wondering if everyone hates playing with him",
-        "Nemesis Announces New Team, Witchcraft, That Will Compete in EMEA Masters"
+        {
+          "title": "Gen.G vs. G2 Esports / First Stand 2026 - Semi-Finals / Post-Match Discussion",
+          "url": "https://reddit.com/r/leagueoflegends/comments/1rzubus/geng_vs_g2_esports_first_stand_2026_semifinals/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "I (disabled gamer) attempted to come back to league after a few years of being away only to have the anti cheat not allow joy to key mouse movements. Now i can't play",
+          "url": "https://reddit.com/r/leagueoflegends/comments/1rv15qz/i_disabled_gamer_attempted_to_come_back_to_league/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "I felt like Faker after this Zed 1v2 at dragon",
+          "url": "https://reddit.com/r/leagueoflegends/comments/1rotrxy/i_felt_like_faker_after_this_zed_1v2_at_dragon/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "Rekkles wondering if everyone hates playing with him",
+          "url": "https://reddit.com/r/leagueoflegends/comments/1s0v2ei/rekkles_wondering_if_everyone_hates_playing_with/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "Nemesis Announces New Team, Witchcraft, That Will Compete in EMEA Masters",
+          "url": "https://reddit.com/r/leagueoflegends/comments/1rkvxjh/nemesis_announces_new_team_witchcraft_that_will/",
+          "date": "Mar 4, 2026"
+        }
       ]
     },
     {
       "name": "techsupport",
       "posts": [
-        "Anker says my warranty expired in April… but it’s still March. And their ‘fix’ requires the device to turn on.",
-        "I heard random sounds and Chinese voices from my laptop - I’m scared",
-        "How do I delete Microsoft copilot?",
-        "IS there ANY way to turn off that AI thing on google searches that hides ALL RESULTS EXCEPT THE WRONG ONE?",
-        "Why does Microsoft say \"Your storage is over 80% full\" (read further before replying)"
+        {
+          "title": "Anker says my warranty expired in April… but it’s still March. And their ‘fix’ requires the device to turn on.",
+          "url": "https://reddit.com/r/techsupport/comments/1rucotw/anker_says_my_warranty_expired_in_april_but_its/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "I heard random sounds and Chinese voices from my laptop - I’m scared",
+          "url": "https://reddit.com/r/techsupport/comments/1s0nijy/i_heard_random_sounds_and_chinese_voices_from_my/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "How do I delete Microsoft copilot?",
+          "url": "https://reddit.com/r/techsupport/comments/1resliw/how_do_i_delete_microsoft_copilot/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "IS there ANY way to turn off that AI thing on google searches that hides ALL RESULTS EXCEPT THE WRONG ONE?",
+          "url": "https://reddit.com/r/techsupport/comments/1rw2wy0/is_there_any_way_to_turn_off_that_ai_thing_on/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "Why does Microsoft say \"Your storage is over 80% full\" (read further before replying)",
+          "url": "https://reddit.com/r/techsupport/comments/1rwoe3j/why_does_microsoft_say_your_storage_is_over_80/",
+          "date": "Mar 18, 2026"
+        }
       ]
     },
     {
       "name": "Futurology",
       "posts": [
-        "\"Cancel ChatGPT\" movement goes mainstream after OpenAI closes deal with U.S. Department of War - as Anthropic refuses to surveil American citizens",
-        "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
-        "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
-        "Neil DeGrasse Tyson calls for an international treaty to ban superintelligence",
-        "AIs can’t stop recommending nuclear strikes in war game simulations - Leading AIs from OpenAI, Anthropic, and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases"
+        {
+          "title": "\"Cancel ChatGPT\" movement goes mainstream after OpenAI closes deal with U.S. Department of War - as Anthropic refuses to surveil American citizens",
+          "url": "https://reddit.com/r/Futurology/comments/1ri1by8/cancel_chatgpt_movement_goes_mainstream_after/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+          "url": "https://reddit.com/r/Futurology/comments/1rzf6mq/ai_added_basically_zero_to_us_economic_growth/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
+          "url": "https://reddit.com/r/Futurology/comments/1rie603/claude_hits_no_1_on_app_store_as_chatgpt_users/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Neil DeGrasse Tyson calls for an international treaty to ban superintelligence",
+          "url": "https://reddit.com/r/Futurology/comments/1s0skvt/neil_degrasse_tyson_calls_for_an_international/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "AIs can’t stop recommending nuclear strikes in war game simulations - Leading AIs from OpenAI, Anthropic, and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases",
+          "url": "https://reddit.com/r/Futurology/comments/1rhx5da/ais_cant_stop_recommending_nuclear_strikes_in_war/",
+          "date": "Mar 1, 2026"
+        }
       ]
     },
     {
       "name": "changemyview",
       "posts": [
-        "CMV: Islam is fundamentally incompatible with core American left-wing progressive values",
-        "CMV: Timothée Chalamet's comments on opera and ballet are some of the least controversial comments about art ever uttered.",
-        "CMV: People hate on Disney adults too much and crazy NFL fans too little",
-        "CMV: GLP-1s Are a Miracle Drug and Should be Encouraged",
-        "CMV: If China had gone to war with Iran over its regime (and oil), the world would have sanctioned it. Just because its the US, should not change that"
+        {
+          "title": "CMV: Islam is fundamentally incompatible with core American left-wing progressive values",
+          "url": "https://reddit.com/r/changemyview/comments/1rtnk1i/cmv_islam_is_fundamentally_incompatible_with_core/",
+          "date": "Mar 14, 2026"
+        },
+        {
+          "title": "CMV: Timothée Chalamet's comments on opera and ballet are some of the least controversial comments about art ever uttered.",
+          "url": "https://reddit.com/r/changemyview/comments/1rsjsik/cmv_timothée_chalamets_comments_on_opera_and/",
+          "date": "Mar 13, 2026"
+        },
+        {
+          "title": "CMV: People hate on Disney adults too much and crazy NFL fans too little",
+          "url": "https://reddit.com/r/changemyview/comments/1rbyy9l/cmv_people_hate_on_disney_adults_too_much_and/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "CMV: GLP-1s Are a Miracle Drug and Should be Encouraged",
+          "url": "https://reddit.com/r/changemyview/comments/1rln2ok/cmv_glp1s_are_a_miracle_drug_and_should_be/",
+          "date": "Mar 5, 2026"
+        },
+        {
+          "title": "CMV: If China had gone to war with Iran over its regime (and oil), the world would have sanctioned it. Just because its the US, should not change that",
+          "url": "https://reddit.com/r/changemyview/comments/1rpg10y/cmv_if_china_had_gone_to_war_with_iran_over_its/",
+          "date": "Mar 9, 2026"
+        }
       ]
     },
     {
       "name": "unpopularopinion",
       "posts": [
-        "Morning showers make no logical sense and night shower people have simply done the hygiene math",
-        "Most people do not actually like traveling, they like having traveled",
-        "Selling girl scout cookies has lost its way.",
-        "Brooklyn Nine Nine is not that good",
-        "Shopping at Costco is terrible"
+        {
+          "title": "Morning showers make no logical sense and night shower people have simply done the hygiene math",
+          "url": "https://reddit.com/r/unpopularopinion/comments/1rx40y4/morning_showers_make_no_logical_sense_and_night/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "Most people do not actually like traveling, they like having traveled",
+          "url": "https://reddit.com/r/unpopularopinion/comments/1rwmqby/most_people_do_not_actually_like_traveling_they/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "Selling girl scout cookies has lost its way.",
+          "url": "https://reddit.com/r/unpopularopinion/comments/1rha58j/selling_girl_scout_cookies_has_lost_its_way/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Brooklyn Nine Nine is not that good",
+          "url": "https://reddit.com/r/unpopularopinion/comments/1rpmpjn/brooklyn_nine_nine_is_not_that_good/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "Shopping at Costco is terrible",
+          "url": "https://reddit.com/r/unpopularopinion/comments/1ri4wir/shopping_at_costco_is_terrible/",
+          "date": "Mar 1, 2026"
+        }
       ]
     },
     {
       "name": "confession",
       "posts": [
-        "I have a weekly routine that I've never told anyone about.",
-        "I saved thousands of dollars by sneaking into the dorm cafeteria for food.",
-        "Car dealer never cashed $7500 down payment check I gave them",
-        "i let my little brother take the fall for something i did and it messed him up way more than i ever expected",
-        "My daughter was just diagnosed with brain cancer and I'm fucking destroyed"
+        {
+          "title": "I have a weekly routine that I've never told anyone about.",
+          "url": "https://reddit.com/r/confession/comments/1s0hp90/i_have_a_weekly_routine_that_ive_never_told/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "I saved thousands of dollars by sneaking into the dorm cafeteria for food.",
+          "url": "https://reddit.com/r/confession/comments/1s0xcjb/i_saved_thousands_of_dollars_by_sneaking_into_the/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "Car dealer never cashed $7500 down payment check I gave them",
+          "url": "https://reddit.com/r/confession/comments/1rmlohf/car_dealer_never_cashed_7500_down_payment_check_i/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "i let my little brother take the fall for something i did and it messed him up way more than i ever expected",
+          "url": "https://reddit.com/r/confession/comments/1roz8f5/i_let_my_little_brother_take_the_fall_for/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "My daughter was just diagnosed with brain cancer and I'm fucking destroyed",
+          "url": "https://reddit.com/r/confession/comments/1riky9n/my_daughter_was_just_diagnosed_with_brain_cancer/",
+          "date": "Mar 2, 2026"
+        }
       ]
     },
     {
       "name": "nottheonion",
       "posts": [
-        "DOGE cancelled a $349,000 grant to replace a museum’s HVAC after ChatGPT flagged it as DEI, court documents show",
-        "Tulsi Gabbard stuns senator by saying it’s not her job to ‘determine what is ... an imminent threat’ to the US",
-        "Erika Kirk appointed to Air Force Academy board",
-        "Man dies in crash at intersection where he petitioned for traffic light after wife's death",
-        "Hegseth blew $7M on lobsters in $93B spending spree"
+        {
+          "title": "DOGE cancelled a $349,000 grant to replace a museum’s HVAC after ChatGPT flagged it as DEI, court documents show",
+          "url": "https://reddit.com/r/nottheonion/comments/1ryu4sx/doge_cancelled_a_349000_grant_to_replace_a/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "Tulsi Gabbard stuns senator by saying it’s not her job to ‘determine what is ... an imminent threat’ to the US",
+          "url": "https://reddit.com/r/nottheonion/comments/1rxncnr/tulsi_gabbard_stuns_senator_by_saying_its_not_her/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "Erika Kirk appointed to Air Force Academy board",
+          "url": "https://reddit.com/r/nottheonion/comments/1rq455m/erika_kirk_appointed_to_air_force_academy_board/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "Man dies in crash at intersection where he petitioned for traffic light after wife's death",
+          "url": "https://reddit.com/r/nottheonion/comments/1rkaabp/man_dies_in_crash_at_intersection_where_he/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "Hegseth blew $7M on lobsters in $93B spending spree",
+          "url": "https://reddit.com/r/nottheonion/comments/1rqj34b/hegseth_blew_7m_on_lobsters_in_93b_spending_spree/",
+          "date": "Mar 11, 2026"
+        }
       ]
     },
     {
       "name": "whatisthisthing",
       "posts": [
-        "A metal pointy thing dangling from the front of the car",
-        "Large heavy bowl with a removable insert at the bottom that has holes in it.",
-        "Very small, thin, slivers of gold colored metal I keep finding stuck in our clothes",
-        "A drawer in my friends rental that has black textured part and then a metal bucket.",
-        "This doll head with a fetus attached at the bottom and pump at back..found in a school"
+        {
+          "title": "A metal pointy thing dangling from the front of the car",
+          "url": "https://reddit.com/r/whatisthisthing/comments/1s0rfyh/a_metal_pointy_thing_dangling_from_the_front_of/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "Large heavy bowl with a removable insert at the bottom that has holes in it.",
+          "url": "https://reddit.com/r/whatisthisthing/comments/1rquvmc/large_heavy_bowl_with_a_removable_insert_at_the/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "Very small, thin, slivers of gold colored metal I keep finding stuck in our clothes",
+          "url": "https://reddit.com/r/whatisthisthing/comments/1ricg6x/very_small_thin_slivers_of_gold_colored_metal_i/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "A drawer in my friends rental that has black textured part and then a metal bucket.",
+          "url": "https://reddit.com/r/whatisthisthing/comments/1rpnjcy/a_drawer_in_my_friends_rental_that_has_black/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "This doll head with a fetus attached at the bottom and pump at back..found in a school",
+          "url": "https://reddit.com/r/whatisthisthing/comments/1rckgn5/this_doll_head_with_a_fetus_attached_at_the/",
+          "date": "Feb 23, 2026"
+        }
       ]
     },
     {
       "name": "mildlyinfuriating",
       "posts": [
-        "Someone at work put a \"help yourself\" note on a pack of Tim Tam's that I bought",
-        "texting my mother",
-        "Fell through my ceiling. Trying to fix it before the wife wakes up.",
-        "I think I was bit by a shark in my dream",
-        "Got testicular torsion last week and ended up needing the right one removed"
+        {
+          "title": "Someone at work put a \"help yourself\" note on a pack of Tim Tam's that I bought",
+          "url": "https://reddit.com/r/mildlyinfuriating/comments/1rd05vi/someone_at_work_put_a_help_yourself_note_on_a/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "texting my mother",
+          "url": "https://reddit.com/r/mildlyinfuriating/comments/1rgm51s/texting_my_mother/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "Fell through my ceiling. Trying to fix it before the wife wakes up.",
+          "url": "https://reddit.com/r/mildlyinfuriating/comments/1rvwfkg/fell_through_my_ceiling_trying_to_fix_it_before/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "I think I was bit by a shark in my dream",
+          "url": "https://reddit.com/r/mildlyinfuriating/comments/1rmx2ok/i_think_i_was_bit_by_a_shark_in_my_dream/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "Got testicular torsion last week and ended up needing the right one removed",
+          "url": "https://reddit.com/r/mildlyinfuriating/comments/1rjz37c/got_testicular_torsion_last_week_and_ended_up/",
+          "date": "Mar 3, 2026"
+        }
       ]
     },
     {
       "name": "HumansBeingBros",
       "posts": [
-        "Man helps a distressed swan find the river",
-        "A woman saves another woman who is being dragged as she hangs onto the dogsled",
-        "The way she showed her how to plush her toys on her medals.",
-        "Joseph Quinn becomes emotional after a fan comments how his kindness is noticed and appreciated",
-        "It started as a cute gesture and became a long tradition between this player and reporter."
+        {
+          "title": "Man helps a distressed swan find the river",
+          "url": "https://reddit.com/r/HumansBeingBros/comments/1rbq76g/man_helps_a_distressed_swan_find_the_river/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "A woman saves another woman who is being dragged as she hangs onto the dogsled",
+          "url": "https://reddit.com/r/HumansBeingBros/comments/1rohjc9/a_woman_saves_another_woman_who_is_being_dragged/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "The way she showed her how to plush her toys on her medals.",
+          "url": "https://reddit.com/r/HumansBeingBros/comments/1rck2m5/the_way_she_showed_her_how_to_plush_her_toys_on/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Joseph Quinn becomes emotional after a fan comments how his kindness is noticed and appreciated",
+          "url": "https://reddit.com/r/HumansBeingBros/comments/1ro14go/joseph_quinn_becomes_emotional_after_a_fan/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "It started as a cute gesture and became a long tradition between this player and reporter.",
+          "url": "https://reddit.com/r/HumansBeingBros/comments/1rgoi0b/it_started_as_a_cute_gesture_and_became_a_long/",
+          "date": "Feb 28, 2026"
+        }
       ]
     },
     {
       "name": "nextfuckinglevel",
       "posts": [
-        "A man sacrificed his truck to stop a runaway vehicle driven by a man who had passed out from a medical emergency, saved driver’s life and potentially other folks on the road",
-        "A crow removing several metal anti-bird spikes from a building ledge.",
-        "Greyhounds easily outrun the other dogs.",
-        "John Cena being John Cena",
-        "The guy in black was just waiting for his turn"
+        {
+          "title": "A man sacrificed his truck to stop a runaway vehicle driven by a man who had passed out from a medical emergency, saved driver’s life and potentially other folks on the road",
+          "url": "https://reddit.com/r/nextfuckinglevel/comments/1rmpqsk/a_man_sacrificed_his_truck_to_stop_a_runaway/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "A crow removing several metal anti-bird spikes from a building ledge.",
+          "url": "https://reddit.com/r/nextfuckinglevel/comments/1rbxp5p/a_crow_removing_several_metal_antibird_spikes/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Greyhounds easily outrun the other dogs.",
+          "url": "https://reddit.com/r/nextfuckinglevel/comments/1rcqqci/greyhounds_easily_outrun_the_other_dogs/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "John Cena being John Cena",
+          "url": "https://reddit.com/r/nextfuckinglevel/comments/1s0mjxq/john_cena_being_john_cena/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "The guy in black was just waiting for his turn",
+          "url": "https://reddit.com/r/nextfuckinglevel/comments/1rkjxld/the_guy_in_black_was_just_waiting_for_his_turn/",
+          "date": "Mar 4, 2026"
+        }
       ]
     },
     {
       "name": "oddlysatisfying",
       "posts": [
-        "Pascal’s Law in action",
-        "A giant perfect flan",
-        "Where math meets art and craftsmanship: Iranian architectural mastery",
-        "An Ice Cream Sandwich at the Tokyo Dome",
-        "Mozzarella stick tattoo"
+        {
+          "title": "Pascal’s Law in action",
+          "url": "https://reddit.com/r/oddlysatisfying/comments/1rc6ixj/pascals_law_in_action/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "A giant perfect flan",
+          "url": "https://reddit.com/r/oddlysatisfying/comments/1riw0do/a_giant_perfect_flan/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Where math meets art and craftsmanship: Iranian architectural mastery",
+          "url": "https://reddit.com/r/oddlysatisfying/comments/1rwcy8o/where_math_meets_art_and_craftsmanship_iranian/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "An Ice Cream Sandwich at the Tokyo Dome",
+          "url": "https://reddit.com/r/oddlysatisfying/comments/1ro6otm/an_ice_cream_sandwich_at_the_tokyo_dome/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "Mozzarella stick tattoo",
+          "url": "https://reddit.com/r/oddlysatisfying/comments/1rpfbfc/mozzarella_stick_tattoo/",
+          "date": "Mar 9, 2026"
+        }
       ]
     },
     {
       "name": "cringe",
       "posts": [
-        "Ben Stiller ignored while selling his soda",
-        "Washed up UFC fighter and failed comedian Brendan Schaub gets ejected from son’s baseball game after yelling at the umpire",
-        "Top Trump official defends president for celebrating Robert Mueller’s death",
-        "Lars von Trier -- \"I understand Hitler...\"",
-        "Minecraft Conference of 2013, probably the treasure-trove of awkwardness"
+        {
+          "title": "Ben Stiller ignored while selling his soda",
+          "url": "https://reddit.com/r/cringe/comments/1rux404/ben_stiller_ignored_while_selling_his_soda/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "Washed up UFC fighter and failed comedian Brendan Schaub gets ejected from son’s baseball game after yelling at the umpire",
+          "url": "https://reddit.com/r/cringe/comments/1rg9qtg/washed_up_ufc_fighter_and_failed_comedian_brendan/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "Top Trump official defends president for celebrating Robert Mueller’s death",
+          "url": "https://reddit.com/r/cringe/comments/1s1cpve/top_trump_official_defends_president_for/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "Lars von Trier -- \"I understand Hitler...\"",
+          "url": "https://reddit.com/r/cringe/comments/1regei3/lars_von_trier_i_understand_hitler/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Minecraft Conference of 2013, probably the treasure-trove of awkwardness",
+          "url": "https://reddit.com/r/cringe/comments/1rtrksb/minecraft_conference_of_2013_probably_the/",
+          "date": "Mar 14, 2026"
+        }
       ]
     },
     {
       "name": "facepalm",
       "posts": [
-        "When the pro life defend death",
-        "Trump Says 'I Guess' Americans Should Worry About Iran Retaliating on U.S. Soil: 'Like I Said, Some People Will Die'",
-        "After claiming Obama would start a war with Iran because he was weak and ineffective at negotiating, Trump has now ordered US strikes on Iran.",
-        "Serious international diplomacy",
-        "Trump claims Iran somehow got its hands on tomahawk missiles"
+        {
+          "title": "When the pro life defend death",
+          "url": "https://reddit.com/r/facepalm/comments/1rhv8k6/when_the_pro_life_defend_death/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Trump Says 'I Guess' Americans Should Worry About Iran Retaliating on U.S. Soil: 'Like I Said, Some People Will Die'",
+          "url": "https://reddit.com/r/facepalm/comments/1rm07u1/trump_says_i_guess_americans_should_worry_about/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "After claiming Obama would start a war with Iran because he was weak and ineffective at negotiating, Trump has now ordered US strikes on Iran.",
+          "url": "https://reddit.com/r/facepalm/comments/1rh6aho/after_claiming_obama_would_start_a_war_with_iran/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Serious international diplomacy",
+          "url": "https://reddit.com/r/facepalm/comments/1rji0k9/serious_international_diplomacy/",
+          "date": "Mar 3, 2026"
+        },
+        {
+          "title": "Trump claims Iran somehow got its hands on tomahawk missiles",
+          "url": "https://reddit.com/r/facepalm/comments/1rqthde/trump_claims_iran_somehow_got_its_hands_on/",
+          "date": "Mar 11, 2026"
+        }
       ]
     },
     {
       "name": "MaliciousCompliance",
       "posts": [
-        "Deny my expenses? Fine you can pay more than triple!",
-        "Accused of stealing/embezzling electricity from employer",
-        "My girlfriend spent two years telling me I say yes too much and then asked me to dog-sit for a week",
-        "My brother in law told me to stop asking where everything goes in his house and \"just use common sense\"",
-        "Won’t let me help you with complying with DOT regulations? Have fun with that Out of Service ticket and fees, buddy!"
+        {
+          "title": "Deny my expenses? Fine you can pay more than triple!",
+          "url": "https://reddit.com/r/MaliciousCompliance/comments/1roy0gw/deny_my_expenses_fine_you_can_pay_more_than_triple/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "Accused of stealing/embezzling electricity from employer",
+          "url": "https://reddit.com/r/MaliciousCompliance/comments/1rfpbht/accused_of_stealingembezzling_electricity_from/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "My girlfriend spent two years telling me I say yes too much and then asked me to dog-sit for a week",
+          "url": "https://reddit.com/r/MaliciousCompliance/comments/1rxc754/my_girlfriend_spent_two_years_telling_me_i_say/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "My brother in law told me to stop asking where everything goes in his house and \"just use common sense\"",
+          "url": "https://reddit.com/r/MaliciousCompliance/comments/1s1h9yt/my_brother_in_law_told_me_to_stop_asking_where/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "Won’t let me help you with complying with DOT regulations? Have fun with that Out of Service ticket and fees, buddy!",
+          "url": "https://reddit.com/r/MaliciousCompliance/comments/1rdwxwh/wont_let_me_help_you_with_complying_with_dot/",
+          "date": "Feb 24, 2026"
+        }
       ]
     },
     {
@@ -423,361 +1243,1081 @@
     {
       "name": "pettyrevenge",
       "posts": [
-        "The No Solicitors sign was there for your protection",
-        "My manager kept emailing me past 10pm expecting quick replies. So I started replying to every single one of his emails exactly 24 hours later.",
-        "My coworker was being a tool so I nailed his to the floor",
-        "You should teach your kids to 1) clean up after themselves 2) treat customer service workers with respect.",
-        "Friend copied my daughter's name...but really"
+        {
+          "title": "The No Solicitors sign was there for your protection",
+          "url": "https://reddit.com/r/pettyrevenge/comments/1rdkiz9/the_no_solicitors_sign_was_there_for_your/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "My manager kept emailing me past 10pm expecting quick replies. So I started replying to every single one of his emails exactly 24 hours later.",
+          "url": "https://reddit.com/r/pettyrevenge/comments/1ry1677/my_manager_kept_emailing_me_past_10pm_expecting/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "My coworker was being a tool so I nailed his to the floor",
+          "url": "https://reddit.com/r/pettyrevenge/comments/1ry6rse/my_coworker_was_being_a_tool_so_i_nailed_his_to/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "You should teach your kids to 1) clean up after themselves 2) treat customer service workers with respect.",
+          "url": "https://reddit.com/r/pettyrevenge/comments/1rbi8kr/you_should_teach_your_kids_to_1_clean_up_after/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Friend copied my daughter's name...but really",
+          "url": "https://reddit.com/r/pettyrevenge/comments/1relror/friend_copied_my_daughters_namebut_really/",
+          "date": "Feb 25, 2026"
+        }
       ]
     },
     {
       "name": "entitledparents",
       "posts": [
-        "My boyfriend's mom showed up to MY apartment to inspect it before deciding if he's \"allowed\" to move in with me",
-        "My parents are acting like I am cruel for cutting them off after I found out what they have been telling my son about his mother",
-        "My mom has started referring to my childhood as \"our journey together\" and gets visibly hurt when I don't back her up in front of her new family",
-        "Entitled mom demanded I “prove” my kid was actually mine at the playground",
-        "My mother gave my ex-husband documents from my custody case because she thought he \"had a right to know\""
+        {
+          "title": "My boyfriend's mom showed up to MY apartment to inspect it before deciding if he's \"allowed\" to move in with me",
+          "url": "https://reddit.com/r/entitledparents/comments/1rg4sca/my_boyfriends_mom_showed_up_to_my_apartment_to/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "My parents are acting like I am cruel for cutting them off after I found out what they have been telling my son about his mother",
+          "url": "https://reddit.com/r/entitledparents/comments/1rx3l1z/my_parents_are_acting_like_i_am_cruel_for_cutting/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "My mom has started referring to my childhood as \"our journey together\" and gets visibly hurt when I don't back her up in front of her new family",
+          "url": "https://reddit.com/r/entitledparents/comments/1rv7a32/my_mom_has_started_referring_to_my_childhood_as/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "Entitled mom demanded I “prove” my kid was actually mine at the playground",
+          "url": "https://reddit.com/r/entitledparents/comments/1rit7sc/entitled_mom_demanded_i_prove_my_kid_was_actually/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "My mother gave my ex-husband documents from my custody case because she thought he \"had a right to know\"",
+          "url": "https://reddit.com/r/entitledparents/comments/1rrxhtg/my_mother_gave_my_exhusband_documents_from_my/",
+          "date": "Mar 12, 2026"
+        }
       ]
     },
     {
       "name": "ChoosingBeggars",
       "posts": [
-        "3k followers and wants a private booth, 10 free drinks and Grey Goose 💀",
-        "\"Free\" isn't free enough",
-        "Couldn't fill it up first?!",
-        "They’re not getting a reply.",
-        "RIP My Blessing Box"
+        {
+          "title": "3k followers and wants a private booth, 10 free drinks and Grey Goose 💀",
+          "url": "https://reddit.com/r/ChoosingBeggars/comments/1rbusbe/3k_followers_and_wants_a_private_booth_10_free/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "\"Free\" isn't free enough",
+          "url": "https://reddit.com/r/ChoosingBeggars/comments/1ryhn2z/free_isnt_free_enough/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "Couldn't fill it up first?!",
+          "url": "https://reddit.com/r/ChoosingBeggars/comments/1s1lanh/couldnt_fill_it_up_first/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "They’re not getting a reply.",
+          "url": "https://reddit.com/r/ChoosingBeggars/comments/1rhivqf/theyre_not_getting_a_reply/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "RIP My Blessing Box",
+          "url": "https://reddit.com/r/ChoosingBeggars/comments/1rqwbmz/rip_my_blessing_box/",
+          "date": "Mar 11, 2026"
+        }
       ]
     },
     {
       "name": "TalesFromRetail",
       "posts": [
-        "We have a regular who knows our menu better than some of our staff and honestly I have mixed feelings about it",
-        "We have a regular who has never once bought anything from our cheese section and I think about him more than I should",
-        "A customer walked past five people in line and was genuinely shocked there was a queue",
-        "A customer spent fifteen minutes arguing that our self checkout machines were \"stealing\" from her because she didn't understand how the scale worked.",
-        "The loneliest customer in the electronics section"
+        {
+          "title": "We have a regular who knows our menu better than some of our staff and honestly I have mixed feelings about it",
+          "url": "https://reddit.com/r/TalesFromRetail/comments/1rx93yr/we_have_a_regular_who_knows_our_menu_better_than/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "We have a regular who has never once bought anything from our cheese section and I think about him more than I should",
+          "url": "https://reddit.com/r/TalesFromRetail/comments/1rxzd5l/we_have_a_regular_who_has_never_once_bought/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "A customer walked past five people in line and was genuinely shocked there was a queue",
+          "url": "https://reddit.com/r/TalesFromRetail/comments/1rx1jyg/a_customer_walked_past_five_people_in_line_and/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "A customer spent fifteen minutes arguing that our self checkout machines were \"stealing\" from her because she didn't understand how the scale worked.",
+          "url": "https://reddit.com/r/TalesFromRetail/comments/1rozkjn/a_customer_spent_fifteen_minutes_arguing_that_our/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "The loneliest customer in the electronics section",
+          "url": "https://reddit.com/r/TalesFromRetail/comments/1rwfikv/the_loneliest_customer_in_the_electronics_section/",
+          "date": "Mar 17, 2026"
+        }
       ]
     },
     {
       "name": "TalesFromTechSupport",
       "posts": [
-        "The woman who manually recalculated every formula for six months",
-        "I drove 40 minutes to fix a jammed vending machine. The cause was… unexpected.",
-        "“I store all my files in AppData\\Roaming because it’s more secure. I know computers.”",
-        "\"You deleted my background!\"",
-        "The printer was \"haunted.\" Sure, Jan."
+        {
+          "title": "The woman who manually recalculated every formula for six months",
+          "url": "https://reddit.com/r/talesfromtechsupport/comments/1rvj998/the_woman_who_manually_recalculated_every_formula/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "I drove 40 minutes to fix a jammed vending machine. The cause was… unexpected.",
+          "url": "https://reddit.com/r/talesfromtechsupport/comments/1rpxltf/i_drove_40_minutes_to_fix_a_jammed_vending/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "“I store all my files in AppData\\Roaming because it’s more secure. I know computers.”",
+          "url": "https://reddit.com/r/talesfromtechsupport/comments/1rmege2/i_store_all_my_files_in_appdataroaming_because/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "\"You deleted my background!\"",
+          "url": "https://reddit.com/r/talesfromtechsupport/comments/1rd3zgv/you_deleted_my_background/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "The printer was \"haunted.\" Sure, Jan.",
+          "url": "https://reddit.com/r/talesfromtechsupport/comments/1rcgcn0/the_printer_was_haunted_sure_jan/",
+          "date": "Feb 23, 2026"
+        }
       ]
     },
     {
       "name": "sysadmin",
       "posts": [
-        "I am quiet quitting",
-        "Update: 2-man IT team → solo admin for 300 users, no raise",
-        "OpenClaw is going viral as a self-hosted ChatGPT alternative and most people setting it up have no idea what's inside the image",
-        "I'm quitting my job due to vibe coders and poor leadership",
-        "We replace all laptops with Framework laptops - A one year review"
+        {
+          "title": "I am quiet quitting",
+          "url": "https://reddit.com/r/sysadmin/comments/1rmjycz/i_am_quiet_quitting/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "Update: 2-man IT team → solo admin for 300 users, no raise",
+          "url": "https://reddit.com/r/sysadmin/comments/1rwlivl/update_2man_it_team_solo_admin_for_300_users_no/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "OpenClaw is going viral as a self-hosted ChatGPT alternative and most people setting it up have no idea what's inside the image",
+          "url": "https://reddit.com/r/sysadmin/comments/1rg2kc1/openclaw_is_going_viral_as_a_selfhosted_chatgpt/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "I'm quitting my job due to vibe coders and poor leadership",
+          "url": "https://reddit.com/r/sysadmin/comments/1roi3ne/im_quitting_my_job_due_to_vibe_coders_and_poor/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "We replace all laptops with Framework laptops - A one year review",
+          "url": "https://reddit.com/r/sysadmin/comments/1rducdx/we_replace_all_laptops_with_framework_laptops_a/",
+          "date": "Feb 24, 2026"
+        }
       ]
     },
     {
       "name": "cscareerquestions",
       "posts": [
-        "I was very pessimistic about AI taking jobs. Then a vibe coder joined my team.",
-        "Meta planning sweeping layoffs , 20% of company",
-        "Am I insane for thinking this sub is being astroturfed?",
-        "Hiring manager perspective: hiring is the most broken I've ever seen",
-        "Meta to layoff 15-25% end of March..."
+        {
+          "title": "I was very pessimistic about AI taking jobs. Then a vibe coder joined my team.",
+          "url": "https://reddit.com/r/cscareerquestions/comments/1rteomh/i_was_very_pessimistic_about_ai_taking_jobs_then/",
+          "date": "Mar 14, 2026"
+        },
+        {
+          "title": "Meta planning sweeping layoffs , 20% of company",
+          "url": "https://reddit.com/r/cscareerquestions/comments/1rt62gb/meta_planning_sweeping_layoffs_20_of_company/",
+          "date": "Mar 14, 2026"
+        },
+        {
+          "title": "Am I insane for thinking this sub is being astroturfed?",
+          "url": "https://reddit.com/r/cscareerquestions/comments/1s0qax6/am_i_insane_for_thinking_this_sub_is_being/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "Hiring manager perspective: hiring is the most broken I've ever seen",
+          "url": "https://reddit.com/r/cscareerquestions/comments/1rkph59/hiring_manager_perspective_hiring_is_the_most/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "Meta to layoff 15-25% end of March...",
+          "url": "https://reddit.com/r/cscareerquestions/comments/1rtl4cv/meta_to_layoff_1525_end_of_march/",
+          "date": "Mar 14, 2026"
+        }
       ]
     },
     {
       "name": "iamverysmart",
       "posts": [
-        "The takes on this game have been extremely cringe, but this post absolutely takes the cake.",
-        "I don't want to come off as ableist, but come on...",
-        "I went to Harvard",
-        "One star review on a rap album",
-        "wow, what a genius 😳😳😳 im soooo intimidated"
+        {
+          "title": "The takes on this game have been extremely cringe, but this post absolutely takes the cake.",
+          "url": "https://reddit.com/r/iamverysmart/comments/1rz9b6s/the_takes_on_this_game_have_been_extremely_cringe/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "I don't want to come off as ableist, but come on...",
+          "url": "https://reddit.com/r/iamverysmart/comments/1rc24la/i_dont_want_to_come_off_as_ableist_but_come_on/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "I went to Harvard",
+          "url": "https://reddit.com/r/iamverysmart/comments/1rifgmx/i_went_to_harvard/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "One star review on a rap album",
+          "url": "https://reddit.com/r/iamverysmart/comments/1rggaji/one_star_review_on_a_rap_album/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "wow, what a genius 😳😳😳 im soooo intimidated",
+          "url": "https://reddit.com/r/iamverysmart/comments/1rpmf76/wow_what_a_genius_im_soooo_intimidated/",
+          "date": "Mar 10, 2026"
+        }
       ]
     },
     {
       "name": "worldnews",
       "posts": [
-        "Russia is providing Iran intelligence to target U.S. forces, officials say",
-        "Leader of Mexicos Jalisco Cartel Nemesio Ruben Oseguera Cervantes Alias \"El Mencho\" has been killed by the Mexican Army",
-        "Iranian leader Khamenei killed in strike, Israeli officials say",
-        "Pentagon believes U.S. struck Iran girls elementary school, killing 150",
-        "Iran Officially Confirms Military Support From Russia And China In War Against the US"
+        {
+          "title": "Russia is providing Iran intelligence to target U.S. forces, officials say",
+          "url": "https://reddit.com/r/worldnews/comments/1rmb3g5/russia_is_providing_iran_intelligence_to_target/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "Leader of Mexicos Jalisco Cartel Nemesio Ruben Oseguera Cervantes Alias \"El Mencho\" has been killed by the Mexican Army",
+          "url": "https://reddit.com/r/worldnews/comments/1rbry7u/leader_of_mexicos_jalisco_cartel_nemesio_ruben/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Iranian leader Khamenei killed in strike, Israeli officials say",
+          "url": "https://reddit.com/r/worldnews/comments/1rhbvdu/iranian_leader_khamenei_killed_in_strike_israeli/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Pentagon believes U.S. struck Iran girls elementary school, killing 150",
+          "url": "https://reddit.com/r/worldnews/comments/1rnfrh7/pentagon_believes_us_struck_iran_girls_elementary/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "Iran Officially Confirms Military Support From Russia And China In War Against the US",
+          "url": "https://reddit.com/r/worldnews/comments/1rul6fl/iran_officially_confirms_military_support_from/",
+          "date": "Mar 15, 2026"
+        }
       ]
     },
     {
       "name": "nba",
       "posts": [
-        "Bam Adebayo breaks Kobe Bryant’s record and the Heat franchise scoring record in a win vs. Washington: 43 MINS │ 83 PTS │ 9 REB │ 3 AST │ 2 STL │ 2 BLK │ 20-43 FG │ 7-22 3P │ 36-43 FT",
-        "LeBron signed this kid’s shoe after his dad told him to say “please”",
-        "Luka Doncic on visiting UCLA Health patients yesterday: \"You go there and then you realize that you don't really have problems in your life at all.”",
-        "[Highlight] Austin Reaves intentionally misses the free throw, grabs his own rebound, and scores to tie the game",
-        "[Good News] Luca, the young cancer patient who gave Ant Edwards a wristband to wear, has official beat Cancer"
+        {
+          "title": "Bam Adebayo breaks Kobe Bryant’s record and the Heat franchise scoring record in a win vs. Washington: 43 MINS │ 83 PTS │ 9 REB │ 3 AST │ 2 STL │ 2 BLK │ 20-43 FG │ 7-22 3P │ 36-43 FT",
+          "url": "https://reddit.com/r/nba/comments/1rqh2ox/bam_adebayo_breaks_kobe_bryants_record_and_the/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "LeBron signed this kid’s shoe after his dad told him to say “please”",
+          "url": "https://reddit.com/r/nba/comments/1rwib6s/lebron_signed_this_kids_shoe_after_his_dad_told/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "Luka Doncic on visiting UCLA Health patients yesterday: \"You go there and then you realize that you don't really have problems in your life at all.”",
+          "url": "https://reddit.com/r/nba/comments/1rsptnr/luka_doncic_on_visiting_ucla_health_patients/",
+          "date": "Mar 13, 2026"
+        },
+        {
+          "title": "[Highlight] Austin Reaves intentionally misses the free throw, grabs his own rebound, and scores to tie the game",
+          "url": "https://reddit.com/r/nba/comments/1ru36a3/highlight_austin_reaves_intentionally_misses_the/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "[Good News] Luca, the young cancer patient who gave Ant Edwards a wristband to wear, has official beat Cancer",
+          "url": "https://reddit.com/r/nba/comments/1rfotvn/good_news_luca_the_young_cancer_patient_who_gave/",
+          "date": "Feb 26, 2026"
+        }
       ]
     },
     {
       "name": "soccer",
       "posts": [
-        "Goalkeeper in Istanbul's amateur league hit a seagull; a player performed CPR, resuscitated it, and handed it to medical staff.",
-        "Atletico Madrid fan literally making sandwiches while 4-1 against Spurs",
-        "Clearer angle of Morgan Gibbs-White's great goal vs Manchester City",
-        "Cinematic slow-motion video of Harry Kane's second goal Vs Atalanta",
-        "Pickford’s great save vs Newcastle."
+        {
+          "title": "Goalkeeper in Istanbul's amateur league hit a seagull; a player performed CPR, resuscitated it, and handed it to medical staff.",
+          "url": "https://reddit.com/r/soccer/comments/1rcr6ds/goalkeeper_in_istanbuls_amateur_league_hit_a/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Atletico Madrid fan literally making sandwiches while 4-1 against Spurs",
+          "url": "https://reddit.com/r/soccer/comments/1rq9lxk/atletico_madrid_fan_literally_making_sandwiches/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "Clearer angle of Morgan Gibbs-White's great goal vs Manchester City",
+          "url": "https://reddit.com/r/soccer/comments/1rkzwps/clearer_angle_of_morgan_gibbswhites_great_goal_vs/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "Cinematic slow-motion video of Harry Kane's second goal Vs Atalanta",
+          "url": "https://reddit.com/r/soccer/comments/1ryq9ld/cinematic_slowmotion_video_of_harry_kanes_second/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "Pickford’s great save vs Newcastle.",
+          "url": "https://reddit.com/r/soccer/comments/1rh7ur6/pickfords_great_save_vs_newcastle/",
+          "date": "Feb 28, 2026"
+        }
       ]
     },
     {
       "name": "nfl",
       "posts": [
-        "[Russini] Maxx Crosby did not pass his physical today, per sources. The Ravens get their first round picks back.",
-        "[Highlight] After heroically saving a woman and children from a burning building, a Philadelphia man throws some shade at an Eagles WR. News Report.",
-        "[Highlight] Kyle Brandt in full support of Travis Etienne Jr.'s clarification of name pronunciation: \"When you respect someone, you say their name right.\"",
-        "[Garafolo] Future Hall of Fame WR Mike Evans has agreed to terms with the 49ers",
-        "Giants running back Cam Skattebo says CTE is 'fake'"
+        {
+          "title": "[Russini] Maxx Crosby did not pass his physical today, per sources. The Ravens get their first round picks back.",
+          "url": "https://reddit.com/r/nfl/comments/1rqeas2/russini_maxx_crosby_did_not_pass_his_physical/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "[Highlight] After heroically saving a woman and children from a burning building, a Philadelphia man throws some shade at an Eagles WR. News Report.",
+          "url": "https://reddit.com/r/nfl/comments/1rtjh8b/highlight_after_heroically_saving_a_woman_and/",
+          "date": "Mar 14, 2026"
+        },
+        {
+          "title": "[Highlight] Kyle Brandt in full support of Travis Etienne Jr.'s clarification of name pronunciation: \"When you respect someone, you say their name right.\"",
+          "url": "https://reddit.com/r/nfl/comments/1rvodb7/highlight_kyle_brandt_in_full_support_of_travis/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "[Garafolo] Future Hall of Fame WR Mike Evans has agreed to terms with the 49ers",
+          "url": "https://reddit.com/r/nfl/comments/1rp8fgv/garafolo_future_hall_of_fame_wr_mike_evans_has/",
+          "date": "Mar 9, 2026"
+        },
+        {
+          "title": "Giants running back Cam Skattebo says CTE is 'fake'",
+          "url": "https://reddit.com/r/nfl/comments/1rzuk3b/giants_running_back_cam_skattebo_says_cte_is_fake/",
+          "date": "Mar 21, 2026"
+        }
       ]
     },
     {
       "name": "explainlikeimfive",
       "posts": [
-        "ELI5: Fentanyl and related drugs can sometimes cause the user to fold over while standing…why don’t they just sit down? Am I missing something?",
-        "ELI5: How do our organs sit inside our body if not soaked in blood?",
-        "ELI5: how is Hiroshima still habitable despite it being nuked?",
-        "ELI5: What exactly is \"time blindness\" and how is it an actual thing?",
-        "ElI5 how does the existence of lead directly disprove the earth isn't only 4000 years old?"
+        {
+          "title": "ELI5: Fentanyl and related drugs can sometimes cause the user to fold over while standing…why don’t they just sit down? Am I missing something?",
+          "url": "https://reddit.com/r/explainlikeimfive/comments/1rmg9lj/eli5_fentanyl_and_related_drugs_can_sometimes/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "ELI5: How do our organs sit inside our body if not soaked in blood?",
+          "url": "https://reddit.com/r/explainlikeimfive/comments/1rrh0wf/eli5_how_do_our_organs_sit_inside_our_body_if_not/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "ELI5: how is Hiroshima still habitable despite it being nuked?",
+          "url": "https://reddit.com/r/explainlikeimfive/comments/1s1glh4/eli5_how_is_hiroshima_still_habitable_despite_it/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "ELI5: What exactly is \"time blindness\" and how is it an actual thing?",
+          "url": "https://reddit.com/r/explainlikeimfive/comments/1rk1mwn/eli5_what_exactly_is_time_blindness_and_how_is_it/",
+          "date": "Mar 3, 2026"
+        },
+        {
+          "title": "ElI5 how does the existence of lead directly disprove the earth isn't only 4000 years old?",
+          "url": "https://reddit.com/r/explainlikeimfive/comments/1ree1jm/eli5_how_does_the_existence_of_lead_directly/",
+          "date": "Feb 25, 2026"
+        }
       ]
     },
     {
       "name": "MapPorn",
       "posts": [
-        "4 years of the Russian Invasion of Ukraine in 30 seconds",
-        "Luxembourg is not a microstate",
-        "My map was printed in a local museum! It's more than 3 meters wide and larger than the room where I designed it...!",
-        "Most common playing cards in each part of Europe",
-        "Leading Cause Of Death In Europe"
+        {
+          "title": "4 years of the Russian Invasion of Ukraine in 30 seconds",
+          "url": "https://reddit.com/r/MapPorn/comments/1rht3ui/4_years_of_the_russian_invasion_of_ukraine_in_30/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Luxembourg is not a microstate",
+          "url": "https://reddit.com/r/MapPorn/comments/1rv9em5/luxembourg_is_not_a_microstate/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "My map was printed in a local museum! It's more than 3 meters wide and larger than the room where I designed it...!",
+          "url": "https://reddit.com/r/MapPorn/comments/1rx53j8/my_map_was_printed_in_a_local_museum_its_more/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "Most common playing cards in each part of Europe",
+          "url": "https://reddit.com/r/MapPorn/comments/1rdcy2z/most_common_playing_cards_in_each_part_of_europe/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "Leading Cause Of Death In Europe",
+          "url": "https://reddit.com/r/MapPorn/comments/1rjpuav/leading_cause_of_death_in_europe/",
+          "date": "Mar 3, 2026"
+        }
       ]
     },
     {
       "name": "history",
       "posts": [
-        "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years",
-        "How Britain helped cover up a US-sponsored coup in Guatemala",
-        "Apocalypse no: how almost everything we thought we knew about the Maya is wrong",
-        "In 1987, California’s largest oceanarium closed overnight after its killer whales were secretly removed",
-        "Archaeological site in Chile upends theory of how humans populated the Americas … again"
+        {
+          "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years",
+          "url": "https://reddit.com/r/history/comments/1rxd1p0/cesar_chavez_a_civil_rights_icon_is_accused_of/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "How Britain helped cover up a US-sponsored coup in Guatemala",
+          "url": "https://reddit.com/r/history/comments/1rbrwpn/how_britain_helped_cover_up_a_ussponsored_coup_in/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Apocalypse no: how almost everything we thought we knew about the Maya is wrong",
+          "url": "https://reddit.com/r/history/comments/1ri0273/apocalypse_no_how_almost_everything_we_thought_we/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "In 1987, California’s largest oceanarium closed overnight after its killer whales were secretly removed",
+          "url": "https://reddit.com/r/history/comments/1rizu1p/in_1987_californias_largest_oceanarium_closed/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Archaeological site in Chile upends theory of how humans populated the Americas … again",
+          "url": "https://reddit.com/r/history/comments/1ryd6z9/archaeological_site_in_chile_upends_theory_of_how/",
+          "date": "Mar 19, 2026"
+        }
       ]
     },
     {
       "name": "Art",
       "posts": [
-        "Afro man crosses the Delaware, Sabin DePierro, ink paper, 2026",
-        "Bite the Hand, Pencils and Purpose, Digital, 2026",
-        "You can have your fish and eat it too, Kari Lilt, Watercolours, 2026",
-        "The real State of the Union, Nick Sirotich, Procreate,2026 [OC]",
-        "Baby Punch, Kranthi Karupati, Alcohol markers, 2026"
+        {
+          "title": "Afro man crosses the Delaware, Sabin DePierro, ink paper, 2026",
+          "url": "https://reddit.com/r/Art/comments/1s10pr4/afro_man_crosses_the_delaware_sabin_depierro_ink/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "Bite the Hand, Pencils and Purpose, Digital, 2026",
+          "url": "https://reddit.com/r/Art/comments/1rhbslu/bite_the_hand_pencils_and_purpose_digital_2026/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "You can have your fish and eat it too, Kari Lilt, Watercolours, 2026",
+          "url": "https://reddit.com/r/Art/comments/1rzpx6r/you_can_have_your_fish_and_eat_it_too_kari_lilt/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "The real State of the Union, Nick Sirotich, Procreate,2026 [OC]",
+          "url": "https://reddit.com/r/Art/comments/1re0zr7/the_real_state_of_the_union_nick_sirotich/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Baby Punch, Kranthi Karupati, Alcohol markers, 2026",
+          "url": "https://reddit.com/r/Art/comments/1rejgw3/baby_punch_kranthi_karupati_alcohol_markers_2026/",
+          "date": "Feb 25, 2026"
+        }
       ]
     },
     {
       "name": "music",
       "posts": [
-        "Flavor Flav invites the Olympic US Women's Hockey team to Vegas, after they decline Donald Trump's invite to the State of the Union",
-        "'Melania' producer reveals Guns N' Roses, Grace Jones, and the Prince estate stopped doc from using their songs",
-        "Country star Brandi Carlile raises $600,000 for those affected by ICE",
-        "Kid Rock says God will “cut down” journalists from the “fake liberal media” for reporting on his $5,000 tour tickets",
-        "Kid Rock's MAGA festival 'is as good as bankrupt' after show cancellation"
+        {
+          "title": "Flavor Flav invites the Olympic US Women's Hockey team to Vegas, after they decline Donald Trump's invite to the State of the Union",
+          "url": "https://reddit.com/r/Music/comments/1rcxf45/flavor_flav_invites_the_olympic_us_womens_hockey/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "'Melania' producer reveals Guns N' Roses, Grace Jones, and the Prince estate stopped doc from using their songs",
+          "url": "https://reddit.com/r/Music/comments/1rdr3lg/melania_producer_reveals_guns_n_roses_grace_jones/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "Country star Brandi Carlile raises $600,000 for those affected by ICE",
+          "url": "https://reddit.com/r/Music/comments/1rdflpi/country_star_brandi_carlile_raises_600000_for/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "Kid Rock says God will “cut down” journalists from the “fake liberal media” for reporting on his $5,000 tour tickets",
+          "url": "https://reddit.com/r/Music/comments/1rbmv68/kid_rock_says_god_will_cut_down_journalists_from/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Kid Rock's MAGA festival 'is as good as bankrupt' after show cancellation",
+          "url": "https://reddit.com/r/Music/comments/1rouxiw/kid_rocks_maga_festival_is_as_good_as_bankrupt/",
+          "date": "Mar 9, 2026"
+        }
       ]
     },
     {
       "name": "pcgaming",
       "posts": [
-        "After 4 years of work, solo dev breaks down in tears after opening Steam and learning his game made $250,000 in a week: \"I feel like I really don't deserve this\"",
-        "Overwatch co-creator Jeff Kaplan on his exit from Activision-Blizzard: 'It was the biggest f**k you moment I've had in may career'",
-        "Ultra rare floppy disk game twisted and slashed into shards by US Customs or DHL checkers — ruined Tsukihime 1999 demo was one of only 50 ever produced",
-        "Lost my dad, booted up his computer and found this",
-        "Twitch will now pause ads when switching tabs"
+        {
+          "title": "After 4 years of work, solo dev breaks down in tears after opening Steam and learning his game made $250,000 in a week: \"I feel like I really don't deserve this\"",
+          "url": "https://reddit.com/r/pcgaming/comments/1rx460t/after_4_years_of_work_solo_dev_breaks_down_in/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "Overwatch co-creator Jeff Kaplan on his exit from Activision-Blizzard: 'It was the biggest f**k you moment I've had in may career'",
+          "url": "https://reddit.com/r/pcgaming/comments/1rre2na/overwatch_cocreator_jeff_kaplan_on_his_exit_from/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "Ultra rare floppy disk game twisted and slashed into shards by US Customs or DHL checkers — ruined Tsukihime 1999 demo was one of only 50 ever produced",
+          "url": "https://reddit.com/r/pcgaming/comments/1ri4wa7/ultra_rare_floppy_disk_game_twisted_and_slashed/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Lost my dad, booted up his computer and found this",
+          "url": "https://reddit.com/r/pcgaming/comments/1ruh4oh/lost_my_dad_booted_up_his_computer_and_found_this/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "Twitch will now pause ads when switching tabs",
+          "url": "https://reddit.com/r/pcgaming/comments/1rgqqef/twitch_will_now_pause_ads_when_switching_tabs/",
+          "date": "Feb 28, 2026"
+        }
       ]
     },
     {
       "name": "nintendo",
       "posts": [
-        "As a Japanese fan who lurks English communities, the gap in how we see Nintendo genuinely unsettles me",
-        "Nintendo Sues U.S. Government Over Trump's 'Unlawful' Tariffs That Led to Last-Minute Switch 2 Pre-Order Delay, Demands Refund With Interest - IGN",
-        "Pokémon rebukes White House’s use of its IP in a social media post",
-        "Pokemon FireRed and LeafGreen on Nintendo Switch lets players claim previously event-only items",
-        "The total number of Pokémon has officially surpassed the number of kanji Japanese kids have to learn in elementary school"
+        {
+          "title": "As a Japanese fan who lurks English communities, the gap in how we see Nintendo genuinely unsettles me",
+          "url": "https://reddit.com/r/nintendo/comments/1rr9qex/as_a_japanese_fan_who_lurks_english_communities/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "Nintendo Sues U.S. Government Over Trump's 'Unlawful' Tariffs That Led to Last-Minute Switch 2 Pre-Order Delay, Demands Refund With Interest - IGN",
+          "url": "https://reddit.com/r/nintendo/comments/1rmu7lx/nintendo_sues_us_government_over_trumps_unlawful/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "Pokémon rebukes White House’s use of its IP in a social media post",
+          "url": "https://reddit.com/r/nintendo/comments/1rmaeov/pokémon_rebukes_white_houses_use_of_its_ip_in_a/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "Pokemon FireRed and LeafGreen on Nintendo Switch lets players claim previously event-only items",
+          "url": "https://reddit.com/r/nintendo/comments/1ri426h/pokemon_firered_and_leafgreen_on_nintendo_switch/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "The total number of Pokémon has officially surpassed the number of kanji Japanese kids have to learn in elementary school",
+          "url": "https://reddit.com/r/nintendo/comments/1rkk4xr/the_total_number_of_pokémon_has_officially/",
+          "date": "Mar 4, 2026"
+        }
       ]
     },
     {
       "name": "interestingasfuck",
       "posts": [
-        "She grabbed a random street kitten to fight mouse in her house",
-        "A grandmother in Missouri is pushing for a new law that would require drunk drivers to pay child support if they kill a parent. (Bentley's Law)",
-        "Monkey grosses out by century egg",
-        "Using hand sanitizer to stop a snake from eating itself",
-        "Camera operator deftly spots the laser pointer at a football match"
+        {
+          "title": "She grabbed a random street kitten to fight mouse in her house",
+          "url": "https://reddit.com/r/interestingasfuck/comments/1rm7ae7/she_grabbed_a_random_street_kitten_to_fight_mouse/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "A grandmother in Missouri is pushing for a new law that would require drunk drivers to pay child support if they kill a parent. (Bentley's Law)",
+          "url": "https://reddit.com/r/interestingasfuck/comments/1rgpsk9/a_grandmother_in_missouri_is_pushing_for_a_new/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Monkey grosses out by century egg",
+          "url": "https://reddit.com/r/interestingasfuck/comments/1rf4pga/monkey_grosses_out_by_century_egg/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "Using hand sanitizer to stop a snake from eating itself",
+          "url": "https://reddit.com/r/interestingasfuck/comments/1ref36t/using_hand_sanitizer_to_stop_a_snake_from_eating/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Camera operator deftly spots the laser pointer at a football match",
+          "url": "https://reddit.com/r/interestingasfuck/comments/1ryvfou/camera_operator_deftly_spots_the_laser_pointer_at/",
+          "date": "Mar 20, 2026"
+        }
       ]
     },
     {
       "name": "NatureIsFuckingLit",
       "posts": [
-        "🔥A Mekong River dolphin aka Irrawaddy dolphin which is critically endangered.",
-        "🔥 Hummingbird does a barrel roll to get a bee off of it",
-        "🔥 Two bees sleeping in a flower",
-        "🔥A  Secretary bird which is a bird of prey native to Africa.",
-        "🔥The northern lights are seen through the mouth of an ice cave on the south shore of Lake Superior in Wisconsin"
+        {
+          "title": "🔥A Mekong River dolphin aka Irrawaddy dolphin which is critically endangered.",
+          "url": "https://reddit.com/r/NatureIsFuckingLit/comments/1ritcqg/a_mekong_river_dolphin_aka_irrawaddy_dolphin/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "🔥 Hummingbird does a barrel roll to get a bee off of it",
+          "url": "https://reddit.com/r/NatureIsFuckingLit/comments/1rdrl4y/hummingbird_does_a_barrel_roll_to_get_a_bee_off/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "🔥 Two bees sleeping in a flower",
+          "url": "https://reddit.com/r/NatureIsFuckingLit/comments/1rloemj/two_bees_sleeping_in_a_flower/",
+          "date": "Mar 5, 2026"
+        },
+        {
+          "title": "🔥A  Secretary bird which is a bird of prey native to Africa.",
+          "url": "https://reddit.com/r/NatureIsFuckingLit/comments/1ryue6b/a_secretary_bird_which_is_a_bird_of_prey_native/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "🔥The northern lights are seen through the mouth of an ice cave on the south shore of Lake Superior in Wisconsin",
+          "url": "https://reddit.com/r/NatureIsFuckingLit/comments/1rbwysi/the_northern_lights_are_seen_through_the_mouth_of/",
+          "date": "Feb 22, 2026"
+        }
       ]
     },
     {
       "name": "loseit",
       "posts": [
-        "Just Realized How Heavy the Weight I Lost Actually Is",
-        "I’ve come to a fat camp in China to lose weight - have I bitten off more than I can chew (pun intended)",
-        "I am sick of the protein apocalypse",
-        "Were doctors right all along",
-        "Regained all the weight after GLP-1 - trying the old fashioned method for weight loss now"
+        {
+          "title": "Just Realized How Heavy the Weight I Lost Actually Is",
+          "url": "https://reddit.com/r/loseit/comments/1rh5fz0/just_realized_how_heavy_the_weight_i_lost/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "I’ve come to a fat camp in China to lose weight - have I bitten off more than I can chew (pun intended)",
+          "url": "https://reddit.com/r/loseit/comments/1rjlmck/ive_come_to_a_fat_camp_in_china_to_lose_weight/",
+          "date": "Mar 3, 2026"
+        },
+        {
+          "title": "I am sick of the protein apocalypse",
+          "url": "https://reddit.com/r/loseit/comments/1rjukx2/i_am_sick_of_the_protein_apocalypse/",
+          "date": "Mar 3, 2026"
+        },
+        {
+          "title": "Were doctors right all along",
+          "url": "https://reddit.com/r/loseit/comments/1rrm2t0/were_doctors_right_all_along/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "Regained all the weight after GLP-1 - trying the old fashioned method for weight loss now",
+          "url": "https://reddit.com/r/loseit/comments/1s1bcvq/regained_all_the_weight_after_glp1_trying_the_old/",
+          "date": "Mar 23, 2026"
+        }
       ]
     },
     {
       "name": "running",
       "posts": [
-        "Jeff Galloway, who inspired people with his run-walk method, dies at 80",
-        "At what point does running become self destructive behavior?",
-        "Just bought a running store. What is one thing your local shop is missing?",
-        "Slower runners, how do you stay motivated when/if people mock your pace?",
-        "LA Marathon men’s finish was wild-and coverage was terrible!"
+        {
+          "title": "Jeff Galloway, who inspired people with his run-walk method, dies at 80",
+          "url": "https://reddit.com/r/running/comments/1rfd5ai/jeff_galloway_who_inspired_people_with_his/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "At what point does running become self destructive behavior?",
+          "url": "https://reddit.com/r/running/comments/1rdhyqq/at_what_point_does_running_become_self/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "Just bought a running store. What is one thing your local shop is missing?",
+          "url": "https://reddit.com/r/running/comments/1rvnmr0/just_bought_a_running_store_what_is_one_thing/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "Slower runners, how do you stay motivated when/if people mock your pace?",
+          "url": "https://reddit.com/r/running/comments/1rdg9yc/slower_runners_how_do_you_stay_motivated_whenif/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "LA Marathon men’s finish was wild-and coverage was terrible!",
+          "url": "https://reddit.com/r/running/comments/1roa4ql/la_marathon_mens_finish_was_wildand_coverage_was/",
+          "date": "Mar 8, 2026"
+        }
       ]
     },
     {
       "name": "hiking",
       "posts": [
-        "“Who goes on vacation just to go hiking?” There’s too many spectacular hikes in the Italian Dolomites to pass up.",
-        "The Isle of Skye/Scottish Highlands are just brilliant",
-        "Three Sisters Wilderness, Oregon.",
-        "Republic of Dagestan, Russia",
-        "February in the Carpathians, Romania"
+        {
+          "title": "“Who goes on vacation just to go hiking?” There’s too many spectacular hikes in the Italian Dolomites to pass up.",
+          "url": "https://reddit.com/r/hiking/comments/1rwnuru/who_goes_on_vacation_just_to_go_hiking_theres_too/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "The Isle of Skye/Scottish Highlands are just brilliant",
+          "url": "https://reddit.com/r/hiking/comments/1rpwll0/the_isle_of_skyescottish_highlands_are_just/",
+          "date": "Mar 10, 2026"
+        },
+        {
+          "title": "Three Sisters Wilderness, Oregon.",
+          "url": "https://reddit.com/r/hiking/comments/1rc6a1y/three_sisters_wilderness_oregon/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Republic of Dagestan, Russia",
+          "url": "https://reddit.com/r/hiking/comments/1re7zhu/republic_of_dagestan_russia/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "February in the Carpathians, Romania",
+          "url": "https://reddit.com/r/hiking/comments/1rfn9yy/february_in_the_carpathians_romania/",
+          "date": "Feb 26, 2026"
+        }
       ]
     },
     {
       "name": "recipes",
       "posts": [
-        "Monte Cristo Sandwich",
-        "Beef and vegetable stew inspired by boeuf bourguignon",
-        "Honey-Glazed Salmon",
-        "Braised apple and pear lamb with golden saffron basmati rice",
-        "Homemade Chicken Cordon Bleu"
+        {
+          "title": "Monte Cristo Sandwich",
+          "url": "https://reddit.com/r/recipes/comments/1rjokg2/monte_cristo_sandwich/",
+          "date": "Mar 3, 2026"
+        },
+        {
+          "title": "Beef and vegetable stew inspired by boeuf bourguignon",
+          "url": "https://reddit.com/r/recipes/comments/1rcdxet/beef_and_vegetable_stew_inspired_by_boeuf/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Honey-Glazed Salmon",
+          "url": "https://reddit.com/r/recipes/comments/1rk6gzq/honeyglazed_salmon/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "Braised apple and pear lamb with golden saffron basmati rice",
+          "url": "https://reddit.com/r/recipes/comments/1rhdd45/braised_apple_and_pear_lamb_with_golden_saffron/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Homemade Chicken Cordon Bleu",
+          "url": "https://reddit.com/r/recipes/comments/1rx4fgb/homemade_chicken_cordon_bleu/",
+          "date": "Mar 18, 2026"
+        }
       ]
     },
     {
       "name": "legaladvice",
       "posts": [
-        "HELP! I’m outside of Jalisco under shelter-in-place orders and my AirBnb reservation ends tomorrow. Airbnb refuses to help",
-        "Fined 100 dollars by apartment complex for “abusive language” towards their AI over the phone.",
-        "My sister keeps using my identity when she gets in trouble.",
-        "Safe Deposit Box at Chase is empty. All stuff is gone.",
-        "My mother is convinced she’s dating Barron Trump"
+        {
+          "title": "HELP! I’m outside of Jalisco under shelter-in-place orders and my AirBnb reservation ends tomorrow. Airbnb refuses to help",
+          "url": "https://reddit.com/r/legaladvice/comments/1rc7mqm/help_im_outside_of_jalisco_under_shelterinplace/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Fined 100 dollars by apartment complex for “abusive language” towards their AI over the phone.",
+          "url": "https://reddit.com/r/legaladvice/comments/1ruie9x/fined_100_dollars_by_apartment_complex_for/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "My sister keeps using my identity when she gets in trouble.",
+          "url": "https://reddit.com/r/legaladvice/comments/1rnwas6/my_sister_keeps_using_my_identity_when_she_gets/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "Safe Deposit Box at Chase is empty. All stuff is gone.",
+          "url": "https://reddit.com/r/legaladvice/comments/1rctkem/safe_deposit_box_at_chase_is_empty_all_stuff_is/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "My mother is convinced she’s dating Barron Trump",
+          "url": "https://reddit.com/r/legaladvice/comments/1rz9tpl/my_mother_is_convinced_shes_dating_barron_trump/",
+          "date": "Mar 20, 2026"
+        }
       ]
     },
     {
       "name": "investing",
       "posts": [
-        "$3.8 trillion in 9 minutes, on a single caps lock post",
-        "US lost 92k jobs in February",
-        "We Are In Black Swan Territory",
-        "China Tells Top Refiners to Suspend Diesel and Gasoline Exports",
-        "Qatar warns war will force Gulf to stop energy exports ‘within days’"
+        {
+          "title": "$3.8 trillion in 9 minutes, on a single caps lock post",
+          "url": "https://reddit.com/r/investing/comments/1s1of0k/38_trillion_in_9_minutes_on_a_single_caps_lock/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "US lost 92k jobs in February",
+          "url": "https://reddit.com/r/investing/comments/1rmep58/us_lost_92k_jobs_in_february/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "We Are In Black Swan Territory",
+          "url": "https://reddit.com/r/investing/comments/1rgryhf/we_are_in_black_swan_territory/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "China Tells Top Refiners to Suspend Diesel and Gasoline Exports",
+          "url": "https://reddit.com/r/investing/comments/1rl754i/china_tells_top_refiners_to_suspend_diesel_and/",
+          "date": "Mar 5, 2026"
+        },
+        {
+          "title": "Qatar warns war will force Gulf to stop energy exports ‘within days’",
+          "url": "https://reddit.com/r/investing/comments/1rmd92w/qatar_warns_war_will_force_gulf_to_stop_energy/",
+          "date": "Mar 6, 2026"
+        }
       ]
     },
     {
       "name": "webdev",
       "posts": [
-        "Anyone ever got a job from Linkedin?",
-        "AWS data centre got hit by missiles and this is how they frame it lmaoo",
-        "Vibe code IRL: left Stripe API keys public",
-        "Software developers don't need to out-last vibe coders, we just need to out-last the ability of AI companies to charge absurdly low for their products",
-        "I'm sending email to Gmail from a computer from the past."
+        {
+          "title": "Anyone ever got a job from Linkedin?",
+          "url": "https://reddit.com/r/webdev/comments/1rtvhy5/anyone_ever_got_a_job_from_linkedin/",
+          "date": "Mar 14, 2026"
+        },
+        {
+          "title": "AWS data centre got hit by missiles and this is how they frame it lmaoo",
+          "url": "https://reddit.com/r/webdev/comments/1riywuh/aws_data_centre_got_hit_by_missiles_and_this_is/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Vibe code IRL: left Stripe API keys public",
+          "url": "https://reddit.com/r/webdev/comments/1rl0yp0/vibe_code_irl_left_stripe_api_keys_public/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "Software developers don't need to out-last vibe coders, we just need to out-last the ability of AI companies to charge absurdly low for their products",
+          "url": "https://reddit.com/r/webdev/comments/1rvacl9/software_developers_dont_need_to_outlast_vibe/",
+          "date": "Mar 16, 2026"
+        },
+        {
+          "title": "I'm sending email to Gmail from a computer from the past.",
+          "url": "https://reddit.com/r/webdev/comments/1rqqne4/im_sending_email_to_gmail_from_a_computer_from/",
+          "date": "Mar 11, 2026"
+        }
       ]
     },
     {
       "name": "python",
       "posts": [
-        "Porn in Conda directory",
-        "Mods have a couple of months to stop AI slop project spam before this sub is dead",
-        "OpenAI to acquire Astral",
-        "Can the mods do something about all these vibecoded slop projects?",
-        "Open Source contributions to Pydantic AI"
+        {
+          "title": "Porn in Conda directory",
+          "url": "https://reddit.com/r/Python/comments/1rfefy7/porn_in_conda_directory/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "Mods have a couple of months to stop AI slop project spam before this sub is dead",
+          "url": "https://reddit.com/r/Python/comments/1rwoq79/mods_have_a_couple_of_months_to_stop_ai_slop/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "OpenAI to acquire Astral",
+          "url": "https://reddit.com/r/Python/comments/1rxzy4d/openai_to_acquire_astral/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "Can the mods do something about all these vibecoded slop projects?",
+          "url": "https://reddit.com/r/Python/comments/1rmloxc/can_the_mods_do_something_about_all_these/",
+          "date": "Mar 6, 2026"
+        },
+        {
+          "title": "Open Source contributions to Pydantic AI",
+          "url": "https://reddit.com/r/Python/comments/1ry99ce/open_source_contributions_to_pydantic_ai/",
+          "date": "Mar 19, 2026"
+        }
       ]
     },
     {
       "name": "BeAmazed",
       "posts": [
-        "Turkish artist merges two opposite reality into one powerful image",
-        "These guys demonstrate the real impact of air purifiers",
-        "First Lady of Brazil, Rosangela da Silva, wore a traditional hanbok on her South Korea visit",
-        "Design that puts People, Animals and Nature first.",
-        "Texas public school teachers are now required to post the 10 Commadments in their classroom. Here's how one teacher is handling it."
+        {
+          "title": "Turkish artist merges two opposite reality into one powerful image",
+          "url": "https://reddit.com/r/BeAmazed/comments/1rnfa3k/turkish_artist_merges_two_opposite_reality_into/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "These guys demonstrate the real impact of air purifiers",
+          "url": "https://reddit.com/r/BeAmazed/comments/1rivrej/these_guys_demonstrate_the_real_impact_of_air/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "First Lady of Brazil, Rosangela da Silva, wore a traditional hanbok on her South Korea visit",
+          "url": "https://reddit.com/r/BeAmazed/comments/1rcs0td/first_lady_of_brazil_rosangela_da_silva_wore_a/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Design that puts People, Animals and Nature first.",
+          "url": "https://reddit.com/r/BeAmazed/comments/1rymsih/design_that_puts_people_animals_and_nature_first/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "Texas public school teachers are now required to post the 10 Commadments in their classroom. Here's how one teacher is handling it.",
+          "url": "https://reddit.com/r/BeAmazed/comments/1rbqpxq/texas_public_school_teachers_are_now_required_to/",
+          "date": "Feb 22, 2026"
+        }
       ]
     },
     {
       "name": "dogs",
       "posts": [
-        "I accidentally left my dog outside overnight",
-        "Letting your dog sleep with you",
-        "Do you let your dog kiss you?",
-        "I love my dogs stinky ears",
-        "Midst of bombs and don’t know how to get my dog to potty in the house"
+        {
+          "title": "I accidentally left my dog outside overnight",
+          "url": "https://reddit.com/r/dogs/comments/1s1h9p3/i_accidentally_left_my_dog_outside_overnight/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "Letting your dog sleep with you",
+          "url": "https://reddit.com/r/dogs/comments/1repqbe/letting_your_dog_sleep_with_you/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Do you let your dog kiss you?",
+          "url": "https://reddit.com/r/dogs/comments/1riznvt/do_you_let_your_dog_kiss_you/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "I love my dogs stinky ears",
+          "url": "https://reddit.com/r/dogs/comments/1rd0lg0/i_love_my_dogs_stinky_ears/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "Midst of bombs and don’t know how to get my dog to potty in the house",
+          "url": "https://reddit.com/r/dogs/comments/1ri3uro/midst_of_bombs_and_dont_know_how_to_get_my_dog_to/",
+          "date": "Mar 1, 2026"
+        }
       ]
     },
     {
       "name": "anime",
       "posts": [
-        "I drove across Japan to visit 6 different anime locations!",
-        "Smoking Behind the Supermarket with You | Character Visuals",
-        "Call an ambulance, but not for me [Sankarea: Undying Love]",
-        "‘The Dangers in My Heart’ Season 3 Announced",
-        "Rent-a-Girlfriend Season 5 | New Key Visual"
+        {
+          "title": "I drove across Japan to visit 6 different anime locations!",
+          "url": "https://reddit.com/r/anime/comments/1rh6pxq/i_drove_across_japan_to_visit_6_different_anime/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "Smoking Behind the Supermarket with You | Character Visuals",
+          "url": "https://reddit.com/r/anime/comments/1re98mw/smoking_behind_the_supermarket_with_you_character/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Call an ambulance, but not for me [Sankarea: Undying Love]",
+          "url": "https://reddit.com/r/anime/comments/1rexejc/call_an_ambulance_but_not_for_me_sankarea_undying/",
+          "date": "Feb 26, 2026"
+        },
+        {
+          "title": "‘The Dangers in My Heart’ Season 3 Announced",
+          "url": "https://reddit.com/r/anime/comments/1rtf7qo/the_dangers_in_my_heart_season_3_announced/",
+          "date": "Mar 14, 2026"
+        },
+        {
+          "title": "Rent-a-Girlfriend Season 5 | New Key Visual",
+          "url": "https://reddit.com/r/anime/comments/1rsi4z4/rentagirlfriend_season_5_new_key_visual/",
+          "date": "Mar 13, 2026"
+        }
       ]
     },
     {
       "name": "antiwork",
       "posts": [
-        "Blink twice if you're in danger.",
-        "Why is leisure viewed with suspicion in America?",
-        "AI has absolutely ruined my life",
-        "TSA officers are quitting rather than working without pay during shutdown as eviction notices, car repos, and empty fridges weigh",
-        "Judge rules in favor of Iowa teacher fired for Charlie Kirk comments"
+        {
+          "title": "Blink twice if you're in danger.",
+          "url": "https://reddit.com/r/antiwork/comments/1ro6u0i/blink_twice_if_youre_in_danger/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "Why is leisure viewed with suspicion in America?",
+          "url": "https://reddit.com/r/antiwork/comments/1rchwn3/why_is_leisure_viewed_with_suspicion_in_america/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "AI has absolutely ruined my life",
+          "url": "https://reddit.com/r/antiwork/comments/1rh20lc/ai_has_absolutely_ruined_my_life/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "TSA officers are quitting rather than working without pay during shutdown as eviction notices, car repos, and empty fridges weigh",
+          "url": "https://reddit.com/r/antiwork/comments/1s06rnv/tsa_officers_are_quitting_rather_than_working/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "Judge rules in favor of Iowa teacher fired for Charlie Kirk comments",
+          "url": "https://reddit.com/r/antiwork/comments/1rjdb26/judge_rules_in_favor_of_iowa_teacher_fired_for/",
+          "date": "Mar 3, 2026"
+        }
       ]
     },
     {
       "name": "OutOfTheLoop",
       "posts": [
-        "What's going on with Mexico? Some cartel leader is killed and now it's chaos?",
-        "Whats going on with Kharg Island, Iran and why is it suddenly important to the USA?",
-        "What's the deal with Pentagon spending $93 billion on steaks, furniture and crabs?",
-        "Whats going on with US military leaders telling troops that war with Iran will bring on the rapture?",
-        "Why are people talking about Peter Thiel fully controlling JD Vance?"
+        {
+          "title": "What's going on with Mexico? Some cartel leader is killed and now it's chaos?",
+          "url": "https://reddit.com/r/OutOfTheLoop/comments/1rc0d1n/whats_going_on_with_mexico_some_cartel_leader_is/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Whats going on with Kharg Island, Iran and why is it suddenly important to the USA?",
+          "url": "https://reddit.com/r/OutOfTheLoop/comments/1rt3mcl/whats_going_on_with_kharg_island_iran_and_why_is/",
+          "date": "Mar 13, 2026"
+        },
+        {
+          "title": "What's the deal with Pentagon spending $93 billion on steaks, furniture and crabs?",
+          "url": "https://reddit.com/r/OutOfTheLoop/comments/1rqf3o5/whats_the_deal_with_pentagon_spending_93_billion/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "Whats going on with US military leaders telling troops that war with Iran will bring on the rapture?",
+          "url": "https://reddit.com/r/OutOfTheLoop/comments/1rloq3l/whats_going_on_with_us_military_leaders_telling/",
+          "date": "Mar 5, 2026"
+        },
+        {
+          "title": "Why are people talking about Peter Thiel fully controlling JD Vance?",
+          "url": "https://reddit.com/r/OutOfTheLoop/comments/1rukybu/why_are_people_talking_about_peter_thiel_fully/",
+          "date": "Mar 15, 2026"
+        }
       ]
     },
     {
       "name": "NoStupidQuestions",
       "posts": [
-        "Why do poor people have the most children?",
-        "Why would Satan torture people in hell for disobeying the SAME god he disobeyed?",
-        "Do most Americans actually flush their toilet paper?",
-        "Is the rumor true that big box stores (like Target/Walmart) will purposefully let you get away with stealing cheap things for months just to build a massive felony case against you later?",
-        "Just had another girlfriend leave me for the guy she was secretly cheating on me with. That makes 5. Anyone want to give me some advice on where to go from here?"
+        {
+          "title": "Why do poor people have the most children?",
+          "url": "https://reddit.com/r/NoStupidQuestions/comments/1rkvqfl/why_do_poor_people_have_the_most_children/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "Why would Satan torture people in hell for disobeying the SAME god he disobeyed?",
+          "url": "https://reddit.com/r/NoStupidQuestions/comments/1rc53dg/why_would_satan_torture_people_in_hell_for/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Do most Americans actually flush their toilet paper?",
+          "url": "https://reddit.com/r/NoStupidQuestions/comments/1rgdria/do_most_americans_actually_flush_their_toilet/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "Is the rumor true that big box stores (like Target/Walmart) will purposefully let you get away with stealing cheap things for months just to build a massive felony case against you later?",
+          "url": "https://reddit.com/r/NoStupidQuestions/comments/1rggiil/is_the_rumor_true_that_big_box_stores_like/",
+          "date": "Feb 27, 2026"
+        },
+        {
+          "title": "Just had another girlfriend leave me for the guy she was secretly cheating on me with. That makes 5. Anyone want to give me some advice on where to go from here?",
+          "url": "https://reddit.com/r/NoStupidQuestions/comments/1rffk8x/just_had_another_girlfriend_leave_me_for_the_guy/",
+          "date": "Feb 26, 2026"
+        }
       ]
     },
     {
       "name": "whatsthisbug",
       "posts": [
-        "isnt this grass hopper beautiful?",
-        "Not looking for an ID, just wanted to share this stunning Pyropkarenius!",
-        "My friend I made tonight 🪲",
-        "green moth in Oregon",
-        "I found 8.5 mantises today"
+        {
+          "title": "isnt this grass hopper beautiful?",
+          "url": "https://reddit.com/r/whatsthisbug/comments/1rbv1cz/isnt_this_grass_hopper_beautiful/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Not looking for an ID, just wanted to share this stunning Pyropkarenius!",
+          "url": "https://reddit.com/r/whatsthisbug/comments/1rke7ya/not_looking_for_an_id_just_wanted_to_share_this/",
+          "date": "Mar 4, 2026"
+        },
+        {
+          "title": "My friend I made tonight 🪲",
+          "url": "https://reddit.com/r/whatsthisbug/comments/1rn9e3f/my_friend_i_made_tonight/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "green moth in Oregon",
+          "url": "https://reddit.com/r/whatsthisbug/comments/1rzad5g/green_moth_in_oregon/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "I found 8.5 mantises today",
+          "url": "https://reddit.com/r/whatsthisbug/comments/1rpigo5/i_found_85_mantises_today/",
+          "date": "Mar 10, 2026"
+        }
       ]
     },
     {
@@ -793,111 +2333,331 @@
     {
       "name": "KidsAreFuckingStupid",
       "posts": [
-        "The power of a talkative child",
-        "No object permanence",
-        "Greatest achievement",
-        "what if you use 100% of jeremy",
-        "Yes, the whole cup"
+        {
+          "title": "The power of a talkative child",
+          "url": "https://reddit.com/r/KidsAreFuckingStupid/comments/1rwo71z/the_power_of_a_talkative_child/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "No object permanence",
+          "url": "https://reddit.com/r/KidsAreFuckingStupid/comments/1rx14sw/no_object_permanence/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "Greatest achievement",
+          "url": "https://reddit.com/r/KidsAreFuckingStupid/comments/1rcvsfx/greatest_achievement/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "what if you use 100% of jeremy",
+          "url": "https://reddit.com/r/KidsAreFuckingStupid/comments/1rvtfxh/what_if_you_use_100_of_jeremy/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "Yes, the whole cup",
+          "url": "https://reddit.com/r/KidsAreFuckingStupid/comments/1rfvuaq/yes_the_whole_cup/",
+          "date": "Feb 27, 2026"
+        }
       ]
     },
     {
       "name": "MealPrepSunday",
       "posts": [
-        "How bout a boy dinner? Lol 😄☺️",
-        "Burrito prep takes a while but it pays off",
-        "Week 10 of Meal Prep for Weight Loss",
-        "Colorful 3 day 2 person lunch prep",
-        "Freezer Pot Pie Follow-Up"
+        {
+          "title": "How bout a boy dinner? Lol 😄☺️",
+          "url": "https://reddit.com/r/MealPrepSunday/comments/1s134gz/how_bout_a_boy_dinner_lol/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "Burrito prep takes a while but it pays off",
+          "url": "https://reddit.com/r/MealPrepSunday/comments/1rnmm6w/burrito_prep_takes_a_while_but_it_pays_off/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "Week 10 of Meal Prep for Weight Loss",
+          "url": "https://reddit.com/r/MealPrepSunday/comments/1rwuxyb/week_10_of_meal_prep_for_weight_loss/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "Colorful 3 day 2 person lunch prep",
+          "url": "https://reddit.com/r/MealPrepSunday/comments/1rui3sj/colorful_3_day_2_person_lunch_prep/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "Freezer Pot Pie Follow-Up",
+          "url": "https://reddit.com/r/MealPrepSunday/comments/1rjmx2p/freezer_pot_pie_followup/",
+          "date": "Mar 3, 2026"
+        }
       ]
     },
     {
       "name": "javascript",
       "posts": [
-        "Vite 8 has been released",
-        "Petition: No AI code in Node​.​js Core",
-        "I spent 14 months building a rich text editor from scratch as a Web Component — now open-sourcing it",
-        "Announcing Vite+ Alpha",
-        "Announcing TypeScript 6.0"
+        {
+          "title": "Vite 8 has been released",
+          "url": "https://reddit.com/r/javascript/comments/1rs17jt/vite_8_has_been_released/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "Petition: No AI code in Node​.​js Core",
+          "url": "https://reddit.com/r/javascript/comments/1rz2pc6/petition_no_ai_code_in_nodejs_core/",
+          "date": "Mar 20, 2026"
+        },
+        {
+          "title": "I spent 14 months building a rich text editor from scratch as a Web Component — now open-sourcing it",
+          "url": "https://reddit.com/r/javascript/comments/1rdm41a/i_spent_14_months_building_a_rich_text_editor/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "Announcing Vite+ Alpha",
+          "url": "https://reddit.com/r/javascript/comments/1rshxh6/announcing_vite_alpha/",
+          "date": "Mar 13, 2026"
+        },
+        {
+          "title": "Announcing TypeScript 6.0",
+          "url": "https://reddit.com/r/javascript/comments/1s1lv0m/announcing_typescript_60/",
+          "date": "Mar 23, 2026"
+        }
       ]
     },
     {
       "name": "DotA2",
       "posts": [
-        "To the guy who destroyed Ti by removing battle pass",
-        "3 years have passed and this is still peak comedy in pro Dota.",
-        "Best duel ever?",
-        "haha he's so funny right?",
-        "GeoGuessers where is it?"
+        {
+          "title": "To the guy who destroyed Ti by removing battle pass",
+          "url": "https://reddit.com/r/DotA2/comments/1rcmjzm/to_the_guy_who_destroyed_ti_by_removing_battle/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "3 years have passed and this is still peak comedy in pro Dota.",
+          "url": "https://reddit.com/r/DotA2/comments/1rw8s4u/3_years_have_passed_and_this_is_still_peak_comedy/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "Best duel ever?",
+          "url": "https://reddit.com/r/DotA2/comments/1rr0xic/best_duel_ever/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "haha he's so funny right?",
+          "url": "https://reddit.com/r/DotA2/comments/1s1bj5v/haha_hes_so_funny_right/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "GeoGuessers where is it?",
+          "url": "https://reddit.com/r/DotA2/comments/1rq1maa/geoguessers_where_is_it/",
+          "date": "Mar 10, 2026"
+        }
       ]
     },
     {
       "name": "baseball",
       "posts": [
-        "[HIGHLIGHT] TEAM VENEZUELA IS THE WORLD BASEBALL CLASSIC CHAMPION!",
-        "The Savannah Bananas catcher is offered a hand shake",
-        "[ESPN] The respect between Venezuela and the Dominican Republic even when fighting for 1st place ❤️",
-        "Taiwanese players in tears after defeating Korea to avoid elimination",
-        "Jomboy: Here's a full summary of how Team USA embarrassed themselves last night in the World Baseball Classic."
+        {
+          "title": "[HIGHLIGHT] TEAM VENEZUELA IS THE WORLD BASEBALL CLASSIC CHAMPION!",
+          "url": "https://reddit.com/r/baseball/comments/1rws4o6/highlight_team_venezuela_is_the_world_baseball/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "The Savannah Bananas catcher is offered a hand shake",
+          "url": "https://reddit.com/r/baseball/comments/1ru2njo/the_savannah_bananas_catcher_is_offered_a_hand/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "[ESPN] The respect between Venezuela and the Dominican Republic even when fighting for 1st place ❤️",
+          "url": "https://reddit.com/r/baseball/comments/1rrvg0x/espn_the_respect_between_venezuela_and_the/",
+          "date": "Mar 12, 2026"
+        },
+        {
+          "title": "Taiwanese players in tears after defeating Korea to avoid elimination",
+          "url": "https://reddit.com/r/baseball/comments/1rnxh84/taiwanese_players_in_tears_after_defeating_korea/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "Jomboy: Here's a full summary of how Team USA embarrassed themselves last night in the World Baseball Classic.",
+          "url": "https://reddit.com/r/baseball/comments/1rqvsw4/jomboy_heres_a_full_summary_of_how_team_usa/",
+          "date": "Mar 11, 2026"
+        }
       ]
     },
     {
       "name": "hockey",
       "posts": [
-        "US women's hockey team declines Trump's State of the Union invite",
-        "[CAN 1-(2) USA] Jack Hughes scores the golden goal for Team USA!",
-        "Photo of the Hellebuyck save",
-        "[Dominik Hasek] Shows support to the USA women’s hockey team after they rejected their invitation to the White House",
-        "[CAN vs USA] Team USA brings out Johnny Gaudreau's jersey onto the ice"
+        {
+          "title": "US women's hockey team declines Trump's State of the Union invite",
+          "url": "https://reddit.com/r/hockey/comments/1rcpuxq/us_womens_hockey_team_declines_trumps_state_of/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "[CAN 1-(2) USA] Jack Hughes scores the golden goal for Team USA!",
+          "url": "https://reddit.com/r/hockey/comments/1rbpaa5/can_12_usa_jack_hughes_scores_the_golden_goal_for/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Photo of the Hellebuyck save",
+          "url": "https://reddit.com/r/hockey/comments/1rbod4a/photo_of_the_hellebuyck_save/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "[Dominik Hasek] Shows support to the USA women’s hockey team after they rejected their invitation to the White House",
+          "url": "https://reddit.com/r/hockey/comments/1rd3jac/dominik_hasek_shows_support_to_the_usa_womens/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "[CAN vs USA] Team USA brings out Johnny Gaudreau's jersey onto the ice",
+          "url": "https://reddit.com/r/hockey/comments/1rbpeah/can_vs_usa_team_usa_brings_out_johnny_gaudreaus/",
+          "date": "Feb 22, 2026"
+        }
       ]
     },
     {
       "name": "Cooking",
       "posts": [
-        "Salt.  Damndest Thing.",
-        "Am I the only one who thinks peeling garlic is a form of torture?",
-        "Salt, Fat, Acid, Heat.  This is going to be fun.",
-        "Why is it that in ultra-expensive celebrity homes, the kitchens rarely have induction cooktops, but instead feature industrial-grade gas ranges?",
-        "Why does no one talk about how baking with silicone (trays, etc) makes food taste like soap?"
+        {
+          "title": "Salt.  Damndest Thing.",
+          "url": "https://reddit.com/r/Cooking/comments/1rc1bus/salt_damndest_thing/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Am I the only one who thinks peeling garlic is a form of torture?",
+          "url": "https://reddit.com/r/Cooking/comments/1re0go0/am_i_the_only_one_who_thinks_peeling_garlic_is_a/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "Salt, Fat, Acid, Heat.  This is going to be fun.",
+          "url": "https://reddit.com/r/Cooking/comments/1rj5f28/salt_fat_acid_heat_this_is_going_to_be_fun/",
+          "date": "Mar 2, 2026"
+        },
+        {
+          "title": "Why is it that in ultra-expensive celebrity homes, the kitchens rarely have induction cooktops, but instead feature industrial-grade gas ranges?",
+          "url": "https://reddit.com/r/Cooking/comments/1rog9j4/why_is_it_that_in_ultraexpensive_celebrity_homes/",
+          "date": "Mar 8, 2026"
+        },
+        {
+          "title": "Why does no one talk about how baking with silicone (trays, etc) makes food taste like soap?",
+          "url": "https://reddit.com/r/Cooking/comments/1rj0o6w/why_does_no_one_talk_about_how_baking_with/",
+          "date": "Mar 2, 2026"
+        }
       ]
     },
     {
       "name": "AskScience",
       "posts": [
-        "If HIV can be detected from saliva, why can't you get it by kissing?",
-        "What chemicals was I smelling from cheap plastic toys in the 90's? The cheaper they were the more they smelled.",
-        "how do we know scallops/oysters cannot feel pain?",
-        "How did blue whales evolve to be larger than deep sea creatures?",
-        "If boiling something in water, does changing the strength of the burner (after a boil is reached) have any effect?"
+        {
+          "title": "If HIV can be detected from saliva, why can't you get it by kissing?",
+          "url": "https://reddit.com/r/askscience/comments/1rn8ujf/if_hiv_can_be_detected_from_saliva_why_cant_you/",
+          "date": "Mar 7, 2026"
+        },
+        {
+          "title": "What chemicals was I smelling from cheap plastic toys in the 90's? The cheaper they were the more they smelled.",
+          "url": "https://reddit.com/r/askscience/comments/1rdvvaz/what_chemicals_was_i_smelling_from_cheap_plastic/",
+          "date": "Feb 24, 2026"
+        },
+        {
+          "title": "how do we know scallops/oysters cannot feel pain?",
+          "url": "https://reddit.com/r/askscience/comments/1rwwcor/how_do_we_know_scallopsoysters_cannot_feel_pain/",
+          "date": "Mar 18, 2026"
+        },
+        {
+          "title": "How did blue whales evolve to be larger than deep sea creatures?",
+          "url": "https://reddit.com/r/askscience/comments/1rqzx7o/how_did_blue_whales_evolve_to_be_larger_than_deep/",
+          "date": "Mar 11, 2026"
+        },
+        {
+          "title": "If boiling something in water, does changing the strength of the burner (after a boil is reached) have any effect?",
+          "url": "https://reddit.com/r/askscience/comments/1ry33bs/if_boiling_something_in_water_does_changing_the/",
+          "date": "Mar 19, 2026"
+        }
       ]
     },
     {
       "name": "WatchPeopleDieInside",
       "posts": [
-        "Bro almost had a heart attack while assembling this statue of Sauron",
-        "Nathan McKinnon reaction to receiving a stuffy for Gold Medal game loss",
-        "Mark Zuckerberg cornered",
-        "Sad being single? Atleast you are not this guy",
-        "Watch Anthony Kiedis, Red Hot Chilli Pepper's singer, die inside"
+        {
+          "title": "Bro almost had a heart attack while assembling this statue of Sauron",
+          "url": "https://reddit.com/r/WatchPeopleDieInside/comments/1rwi7pc/bro_almost_had_a_heart_attack_while_assembling/",
+          "date": "Mar 17, 2026"
+        },
+        {
+          "title": "Nathan McKinnon reaction to receiving a stuffy for Gold Medal game loss",
+          "url": "https://reddit.com/r/WatchPeopleDieInside/comments/1rbqy66/nathan_mckinnon_reaction_to_receiving_a_stuffy/",
+          "date": "Feb 22, 2026"
+        },
+        {
+          "title": "Mark Zuckerberg cornered",
+          "url": "https://reddit.com/r/WatchPeopleDieInside/comments/1rctmpx/mark_zuckerberg_cornered/",
+          "date": "Feb 23, 2026"
+        },
+        {
+          "title": "Sad being single? Atleast you are not this guy",
+          "url": "https://reddit.com/r/WatchPeopleDieInside/comments/1rhrrng/sad_being_single_atleast_you_are_not_this_guy/",
+          "date": "Mar 1, 2026"
+        },
+        {
+          "title": "Watch Anthony Kiedis, Red Hot Chilli Pepper's singer, die inside",
+          "url": "https://reddit.com/r/WatchPeopleDieInside/comments/1rpulf7/watch_anthony_kiedis_red_hot_chilli_peppers/",
+          "date": "Mar 10, 2026"
+        }
       ]
     },
     {
       "name": "AbsoluteUnits",
       "posts": [
-        "of a Termite Queen",
-        "of a pigs absolute units",
-        "of a Fish Market Customer",
-        "of a baby buffalo",
-        "of a vegetarian"
+        {
+          "title": "of a Termite Queen",
+          "url": "https://reddit.com/r/AbsoluteUnits/comments/1reat2e/of_a_termite_queen/",
+          "date": "Feb 25, 2026"
+        },
+        {
+          "title": "of a pigs absolute units",
+          "url": "https://reddit.com/r/AbsoluteUnits/comments/1rgxusy/of_a_pigs_absolute_units/",
+          "date": "Feb 28, 2026"
+        },
+        {
+          "title": "of a Fish Market Customer",
+          "url": "https://reddit.com/r/AbsoluteUnits/comments/1s0jxa1/of_a_fish_market_customer/",
+          "date": "Mar 22, 2026"
+        },
+        {
+          "title": "of a baby buffalo",
+          "url": "https://reddit.com/r/AbsoluteUnits/comments/1rygckl/of_a_baby_buffalo/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "of a vegetarian",
+          "url": "https://reddit.com/r/AbsoluteUnits/comments/1rkge1w/of_a_vegetarian/",
+          "date": "Mar 4, 2026"
+        }
       ]
     },
     {
       "name": "malelivingspace",
       "posts": [
-        "Been homeless for 6 months. Got my first studio",
-        "42 year old male living solo.",
-        "34 year old me has done 14 year old me proud",
-        "31M - GF moving in next weekend - swan song for the pad",
-        "My room in the back of a boxing gym"
+        {
+          "title": "Been homeless for 6 months. Got my first studio",
+          "url": "https://reddit.com/r/malelivingspace/comments/1rzuelx/been_homeless_for_6_months_got_my_first_studio/",
+          "date": "Mar 21, 2026"
+        },
+        {
+          "title": "42 year old male living solo.",
+          "url": "https://reddit.com/r/malelivingspace/comments/1s1fk02/42_year_old_male_living_solo/",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "title": "34 year old me has done 14 year old me proud",
+          "url": "https://reddit.com/r/malelivingspace/comments/1ruoxdp/34_year_old_me_has_done_14_year_old_me_proud/",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "31M - GF moving in next weekend - swan song for the pad",
+          "url": "https://reddit.com/r/malelivingspace/comments/1ry5h5s/31m_gf_moving_in_next_weekend_swan_song_for_the/",
+          "date": "Mar 19, 2026"
+        },
+        {
+          "title": "My room in the back of a boxing gym",
+          "url": "https://reddit.com/r/malelivingspace/comments/1rwqh6e/my_room_in_the_back_of_a_boxing_gym/",
+          "date": "Mar 18, 2026"
+        }
       ]
     }
   ]
