@@ -1,0 +1,904 @@
+{
+  "subreddits": [
+    {
+      "name": "mildlyinteresting",
+      "posts": [
+        "My egg had a tiny perfect egg inside it",
+        "This tree grew perfectly around a stop sign",
+        "The shadow of this fence looks exactly like a piano",
+        "Found a chip that is shaped exactly like a boot",
+        "My hotel room number is in a completely different font from the rest"
+      ]
+    },
+    {
+      "name": "TIFU",
+      "posts": [
+        "TIFU by accidentally calling my professor 'mom' in front of the whole class",
+        "TIFU by setting my alarm for PM instead of AM and missing my own wedding rehearsal",
+        "TIFU by trying to impress my date and locking both of us out of my car",
+        "TIFU by confidently correcting my boss in a meeting and being completely wrong",
+        "TIFU by replying-all to a company-wide email meant to be a private complaint"
+      ]
+    },
+    {
+      "name": "AmItheAsshole",
+      "posts": [
+        "AITA for refusing to give up my window seat on a 12-hour flight for a family?",
+        "AITA for not attending my sister's wedding because she banned my service dog?",
+        "AITA for telling my coworker their 'fun fact' about me at the team meeting was a lie?",
+        "AITA for cutting my hair after my boyfriend said it was a dealbreaker?",
+        "AITA for charging my adult son rent when he moved back home?"
+      ]
+    },
+    {
+      "name": "AskReddit",
+      "posts": [
+        "What's a sentence that sounds polite but is actually incredibly rude?",
+        "What's something that was normal 20 years ago that would be unacceptable today?",
+        "People who have met someone famous unexpectedly, what happened?",
+        "What's the most 'big fish small pond' situation you've ever witnessed?",
+        "What did your parents tell you that turned out to be completely false?"
+      ]
+    },
+    {
+      "name": "gaming",
+      "posts": [
+        "After 15 years, they finally fixed the sound bug that's been in the game since launch",
+        "This game costs $70 but requires a $15/month subscription to access 60% of it",
+        "Unpopular opinion: games were better when they didn't have battle passes",
+        "My 7-year-old just beat a boss I've been stuck on for two weeks",
+        "The loading screen tip in this game is just an ad for their other game"
+      ]
+    },
+    {
+      "name": "funny",
+      "posts": [
+        "My cat has been sitting in this Amazon box for three days. He's never been more content.",
+        "Told my kids I had eyes in the back of my head. They checked. Now they think I'm lying.",
+        "Asked my GPS to avoid highways. It took me through someone's backyard.",
+        "My dog figured out how to open the treat cabinet. The look of pride on his face.",
+        "Put a fake security camera up to deter thieves. A squirrel immediately attacked it."
+      ]
+    },
+    {
+      "name": "aww",
+      "posts": [
+        "This rescue dog learned how to smile after six months in his forever home",
+        "My grandma knits tiny sweaters for the penguins at the local aquarium",
+        "A baby deer fell asleep on our porch and the dog just sat next to it all night",
+        "This old dog has been waiting by the door every day for his owner who passed away",
+        "After years of refusing cuddles, my cat finally fell asleep on my lap today"
+      ]
+    },
+    {
+      "name": "cats",
+      "posts": [
+        "My cat learned how to knock ONLY the expensive things off the shelf",
+        "3AM. Everything is fine. My cat is sitting on my face.",
+        "Bought a $60 cat bed. She sleeps in the box it came in.",
+        "My cat has been staring at this wall for 45 minutes. There's nothing there.",
+        "He knows exactly when I open a cheese wrapper from two floors away"
+      ]
+    },
+    {
+      "name": "programming",
+      "posts": [
+        "It works but I have no idea why and I'm afraid to touch it",
+        "Senior dev spent 3 hours debugging, problem was a missing semicolon",
+        "The code was fine. The documentation was a lie.",
+        "Whoever wrote this code 5 years ago left no comments. It was me.",
+        "Just refactored 400 lines down to 8 and I feel like a god"
+      ]
+    },
+    {
+      "name": "todayilearned",
+      "posts": [
+        "TIL that otters hold hands while sleeping so they don't float away from each other",
+        "TIL the Eiffel Tower grows about 15cm taller in summer due to thermal expansion",
+        "TIL Oxford University is older than the Aztec Empire",
+        "TIL that a group of flamingos is called a 'flamboyance'",
+        "TIL that the inventor of the Pringles can was buried in one"
+      ]
+    },
+    {
+      "name": "Showerthoughts",
+      "posts": [
+        "The 'teeth falling out' dream is so common that millions of people have had the exact same nightmare",
+        "We're the only species that pays to live on this planet",
+        "Your future self is a stranger who will have to deal with all the decisions you're making right now",
+        "Every single 'ancient artifact' was once someone's trash",
+        "The first person to survive a fall from a great height had no idea how lucky they were"
+      ]
+    },
+    {
+      "name": "LifeProTips",
+      "posts": [
+        "LPT: When someone is angry, lower your voice instead of raising it. It forces them to calm down to hear you.",
+        "LPT: Put your keys in your shoe when at the beach. No one steals shoes.",
+        "LPT: If you're nervous about a presentation, arrive early and rearrange the chairs. You'll feel like the host.",
+        "LPT: Take a photo of your luggage before flying so you can describe it accurately if it gets lost.",
+        "LPT: When parallel parking, use the car behind as your guide, not the space itself."
+      ]
+    },
+    {
+      "name": "relationship_advice",
+      "posts": [
+        "My boyfriend of 3 years just told me he's been lying about his job the entire time. What do I do?",
+        "My girlfriend went through my phone and I'm not even upset, I'm just exhausted",
+        "UPDATE: I took your advice, had the conversation, and he immediately proposed. I said no.",
+        "Is it normal to feel like you're raising your partner instead of being with them?",
+        "My fiancée's family hates me for no reason and she refuses to acknowledge it"
+      ]
+    },
+    {
+      "name": "personalfinance",
+      "posts": [
+        "Just paid off $47,000 in student loans at 29. Never thought this day would come.",
+        "Is it normal that my employer's 401k match information is buried in a 90-page PDF?",
+        "Made $80k last year and somehow still live paycheck to paycheck. What am I missing?",
+        "My bank charged me an overdraft fee that caused another overdraft fee. Is this legal?",
+        "Finally have a 3-month emergency fund at 35. Better late than never."
+      ]
+    },
+    {
+      "name": "dataisbeautiful",
+      "posts": [
+        "[OC] I tracked every minute of my day for a year. Here's what I actually spend time on.",
+        "[OC] The rise and fall of Blockbuster store locations from 1985 to 2020",
+        "[OC] I mapped every McDonald's in the US. You're never more than 115 miles from one.",
+        "[OC] Deaths per billion miles traveled by transportation method",
+        "[OC] Every country's most Googled 'Why does my...' question, visualized on a world map"
+      ]
+    },
+    {
+      "name": "science",
+      "posts": [
+        "Scientists discover the brain continues to consolidate memories during dreamless sleep",
+        "New study finds microplastics in human brain tissue for the first time",
+        "Researchers develop a biodegradable plastic that fully dissolves in seawater in 4 weeks",
+        "Ancient DNA reveals that the Roman Empire was far more genetically diverse than previously thought",
+        "AI model predicts protein structures with near-perfect accuracy, upending decades of biology"
+      ]
+    },
+    {
+      "name": "space",
+      "posts": [
+        "James Webb telescope captures image of galaxy from just 300 million years after the Big Bang",
+        "SpaceX successfully lands both boosters simultaneously for the first time",
+        "Astronomers detect repeating radio signal from a galaxy 3 billion light years away",
+        "NASA's Voyager 1 sends back corrupted data from interstellar space — engineers working to fix it",
+        "Evidence of ancient liquid water found beneath Mars's southern polar ice cap"
+      ]
+    },
+    {
+      "name": "DIY",
+      "posts": [
+        "Turned a collapsed barn into a guest house for under $8,000. 18-month build.",
+        "Built a floating desk from $40 of lumber. Wife thought I was crazy. Now she wants one too.",
+        "Replaced my own electrical panel for the first time. Here's everything I learned.",
+        "Salvaged 200 pallets and made a full backyard fence. Cost me $0.",
+        "Finally retiled the bathroom after watching YouTube for a weekend. Before and after inside."
+      ]
+    },
+    {
+      "name": "food",
+      "posts": [
+        "Homemade croissants — 3 days of lamination. Was it worth it? Absolutely.",
+        "Spent my whole Saturday making handmade pasta. No regrets.",
+        "Made a beef Wellington for the first time and it actually worked",
+        "This is what a $4 meal looks like in Vietnam vs a $4 meal in New York",
+        "I've been perfecting this chocolate chip cookie recipe for 7 years. Here's the final version."
+      ]
+    },
+    {
+      "name": "fitness",
+      "posts": [
+        "1 year progress pic. 220lbs to 165lbs. The gym saved my life.",
+        "Is it normal to feel way worse before you feel better in the first month?",
+        "Finally hit a 315lb squat at 47 years old",
+        "I've been going every day for 90 days and I still hate it. Does that ever change?",
+        "Form check please — my lower back is rounding and I can't figure out why"
+      ]
+    },
+    {
+      "name": "travel",
+      "posts": [
+        "Spent 6 months backpacking Southeast Asia on $15/day. Here's my full breakdown.",
+        "Solo trip to Japan completely changed how I see the world",
+        "The most underrated country I've ever visited? Albania. Not even close.",
+        "We booked a flight to the wrong city. Here's what happened next.",
+        "TSA opened my checked bag and left a note. Inside was a full cheese wheel."
+      ]
+    },
+    {
+      "name": "photography",
+      "posts": [
+        "Lightning struck 40 feet from me. This is what I captured on a 30-second exposure.",
+        "Spent 3 years photographing the same tree through every season [OC]",
+        "Got my first professional camera for Christmas. Here's my first decent shot.",
+        "The fog this morning made my town look like a fairy tale. [OC]",
+        "After 200 attempts, I finally captured a kingfisher hitting the water [OC]"
+      ]
+    },
+    {
+      "name": "movies",
+      "posts": [
+        "What's a movie that everyone says is a masterpiece but you just couldn't get into?",
+        "The best movie I've seen this year had a $4 million budget and zero marketing",
+        "Rewatched a childhood movie as an adult and the dark subtext completely flew over my head",
+        "Name a film where the sequel is genuinely better than the original",
+        "The director's cut is 40 minutes shorter. It's the definitive version. Fight me."
+      ]
+    },
+    {
+      "name": "television",
+      "posts": [
+        "The writers clearly had no plan when they started season 3 and it shows",
+        "Show of the year and I haven't seen a single ad for it",
+        "I watched the pilot expecting to hate it and now I'm on episode 9 at 2AM",
+        "They cancelled it on a cliffhanger and I'm still not over it three years later",
+        "The background extras in this scene are clearly just crew members. You can see a headset."
+      ]
+    },
+    {
+      "name": "books",
+      "posts": [
+        "I finally read a book that I couldn't put down for the first time in years",
+        "Does anyone else read the last page first? Genuinely asking.",
+        "Recommended this book to my mom. She called me to yell at me about the ending.",
+        "What's a book that genuinely changed how you think about something?",
+        "The sequel retcons a major plot point and I'm pretending it doesn't exist"
+      ]
+    },
+    {
+      "name": "Minecraft",
+      "posts": [
+        "Spent 6 months building a 1:1 scale of my hometown. Finally done.",
+        "A creeper just destroyed the house I've been working on for 3 weeks. I'm done.",
+        "Found a stronghold directly below my base after 800 hours on this seed",
+        "Built a fully automatic sorting system for my megabase. Took 2 weeks of redstone.",
+        "My daughter asked me to build a castle. I think I got a little carried away."
+      ]
+    },
+    {
+      "name": "leagueoflegends",
+      "posts": [
+        "Why does Riot keep buffing this champion when he's already picked in 40% of pro games?",
+        "I've been hardstuck Gold for 3 seasons and I finally hit Platinum. Here's what changed.",
+        "The new champion is broken. She just deleted me through a wall.",
+        "Matchmaking put me against a Diamond player in Silver. I lasted 4 minutes.",
+        "I finally found the champion I was meant to play after 2000 hours"
+      ]
+    },
+    {
+      "name": "techsupport",
+      "posts": [
+        "Printer worked fine yesterday. Now it says 'driver unavailable.' I changed nothing.",
+        "My computer makes a noise that sounds exactly like a distressed whale when it starts up",
+        "Somehow deleted System32 while trying to clear disk space. What do I do?",
+        "My WiFi only works if I stand in one specific corner of the room",
+        "A Windows update ran overnight and now nothing works. [Please help]"
+      ]
+    },
+    {
+      "name": "Futurology",
+      "posts": [
+        "Researchers claim solid-state batteries could deliver 500-mile EV range by 2027",
+        "AI systems are now writing better legal briefs than junior associates, study finds",
+        "The case for a 4-day workweek: companies report 20% productivity gains after 1 year",
+        "China completes the first fully solar-powered city district with zero grid dependency",
+        "Lab-grown meat receives full FDA approval. First products hit shelves this fall."
+      ]
+    },
+    {
+      "name": "changemyview",
+      "posts": [
+        "CMV: Tipping culture has become unreasonable and should be replaced with higher wages",
+        "CMV: Homework for children under 12 has no proven benefit and should be abolished",
+        "CMV: Social media is a net negative for society and we'd be better off without it",
+        "CMV: Pineapple on pizza is genuinely good and the hate is entirely performative",
+        "CMV: Remote work is better for productivity and the push to return to office is just about control"
+      ]
+    },
+    {
+      "name": "unpopularopinion",
+      "posts": [
+        "Unpopular opinion: Breakfast food is the worst meal of the day and I'm tired of pretending otherwise",
+        "Unpopular opinion: Open offices are worse than cubicles and everyone secretly agrees",
+        "Unpopular opinion: Most 'vintage' things weren't actually better, we just remember them fondly",
+        "Unpopular opinion: Dogs in restaurants and grocery stores should not be normalized",
+        "Unpopular opinion: Surprise parties are inconsiderate and people do them for themselves, not the recipient"
+      ]
+    },
+    {
+      "name": "confession",
+      "posts": [
+        "I've been pretending to enjoy my friend's cooking for 8 years. I cannot stop now.",
+        "I told my boss I had a family emergency. I just needed a mental health day.",
+        "I let someone else take the blame for a mistake at work 4 years ago and I think about it every day",
+        "I've read none of the books I've told people are my favorites",
+        "I genuinely don't know any of my coworkers' names after two years. I've just been nodding."
+      ]
+    },
+    {
+      "name": "nottheonion",
+      "posts": [
+        "Man fined $1,500 for feeding pigeons sues city — pigeons testify on his behalf (sort of)",
+        "Florida county bans math textbooks for containing 'prohibited' social-emotional content",
+        "Man calls 911 to complain about McDonald's not giving him enough dipping sauce",
+        "City installs $400,000 'smart bench' that still doesn't have enough shade",
+        "Airline loses man's luggage. Luggage turns up on a flight to the wrong continent. Twice."
+      ]
+    },
+    {
+      "name": "whatisthisthing",
+      "posts": [
+        "Found this metal object buried 3 feet deep in my backyard. Has markings I don't recognize.",
+        "This was in my grandmother's attic. No one in the family knows what it is.",
+        "Strange device in my hotel room behind the TV. Blinking red light.",
+        "Found a perfectly smooth sphere in the woods. It's perfectly uniform and very heavy.",
+        "My landlord left this in the basement and won't explain what it's for. Help?"
+      ]
+    },
+    {
+      "name": "mildlyinfuriating",
+      "posts": [
+        "My neighbor's wifi name is 'FBI Surveillance Van' and it has been since 2016",
+        "The 'close door' button in this elevator does absolutely nothing",
+        "Store rearranged everything and now I can't find a single item I came in for",
+        "Email signature with 14 inspirational quotes but no actual contact information",
+        "This crosswalk button has a 4-minute wait. The light cycle is 45 seconds."
+      ]
+    },
+    {
+      "name": "HumansBeingBros",
+      "posts": [
+        "Biker gang stops to help an elderly woman change her tire in the rain",
+        "Construction worker notices a woman struggling with her groceries. Stops everything to help carry them.",
+        "Stranger paid for my groceries when my card declined. Left before I could thank him.",
+        "Bus driver waited 5 extra minutes for a passenger he saw running for the stop",
+        "Boy scout troop spent their weekend building a proper ramp for a neighbor in a wheelchair"
+      ]
+    },
+    {
+      "name": "nextfuckinglevel",
+      "posts": [
+        "This guy sculpts perfect human faces out of a single pencil tip",
+        "Blind chess grandmaster plays simultaneous games against 20 opponents and wins all 20",
+        "This chef breaks down an entire tuna in under 4 minutes with surgical precision",
+        "Mechanic rebuilds a destroyed engine from pure scrap parts. It runs perfectly.",
+        "This woman has memorized the layouts of 47 cities and can navigate any of them blindfolded"
+      ]
+    },
+    {
+      "name": "oddlysatisfying",
+      "posts": [
+        "Perfectly slicing a block of butter into 100 identical pats",
+        "This machine that fills cracks in the road with molten rubber",
+        "Power washing a century of grime off these cobblestones",
+        "Every single domino falls in sequence. 250,000 pieces, zero failures.",
+        "Perfectly separating the colors from a bag of mixed sprinkles"
+      ]
+    },
+    {
+      "name": "cringe",
+      "posts": [
+        "Guy at networking event hands everyone a QR code that links to his personal brand manifesto",
+        "Influencer stops 5 strangers to explain that their outfits don't match her aesthetic",
+        "LinkedIn post: 'I fired my entire team to make room for self-starters who hustle like me'",
+        "Man at open mic night plays his original song about why he's a better choice than his ex's new boyfriend",
+        "The 'sigma grindset' speech this 19-year-old gave at his cousin's birthday party"
+      ]
+    },
+    {
+      "name": "facepalm",
+      "posts": [
+        "Anti-vaxxer's Facebook post about natural immunity gets 10,000 likes. She's a nurse.",
+        "Guy argued with me for 45 minutes that Australia isn't a real country",
+        "News anchor mispronounces a word, viewer writes 3-page letter to correct her. Word was correct.",
+        "Company newsletter celebrates 'no lost-time injuries this year' the day after the layoffs",
+        "Customer called tech support to say the internet was down. She had unplugged the router to charge her phone."
+      ]
+    },
+    {
+      "name": "MaliciousCompliance",
+      "posts": [
+        "Boss said I could only take breaks between tasks. I found a task that never ends.",
+        "HR said I had to dress 'professionally.' Here's what a tuxedo to a warehouse looks like.",
+        "Client insisted on zero-calorie snacks for the meeting. I brought plain tap water and celery.",
+        "Manager said 'clean your desk.' It's been empty for two weeks now. He hasn't said anything.",
+        "Policy said I must work my full 8 hours. I did. I filed 140 support tickets in 4 hours of 'overtime.'"
+      ]
+    },
+    {
+      "name": "ProRevenge",
+      "posts": [
+        "My former employer tried to destroy my reputation after I left. Here's how I destroyed theirs instead.",
+        "A scammer tried to steal my identity. I spent 6 months systematically dismantling their operation.",
+        "Car dealership cheated me out of $4,000. I got every cent back plus $11,000 in compensation.",
+        "My landlord refused to return my deposit illegally. I called every code inspector in the county.",
+        "Boss took credit for my project and got a promotion. I waited, documented everything, then went to the CEO."
+      ]
+    },
+    {
+      "name": "pettyrevenge",
+      "posts": [
+        "Neighbor kept parking in my spot. I started parking in theirs but left a single inch of space.",
+        "Coworker kept stealing my lunch. I swapped mine with a decoy made entirely of jalapeños.",
+        "Ex's mom blocked me. I left a five-star review for her business but only gave it two stars for the salad.",
+        "Student who kept talking in my class started 'spontaneously' being seated right in front of me",
+        "Person took my parking spot so I parked directly behind them and went shopping for two hours"
+      ]
+    },
+    {
+      "name": "entitledparents",
+      "posts": [
+        "EP demanded I move my reserved seat on a plane so her family could sit together. The seat was $80 extra.",
+        "EP threatened to call the police because my child wouldn't share their birthday cake with hers",
+        "EP at the park told me to put my dog away because it was 'scaring' her kid. The kid was chasing it.",
+        "EP got my number from the school directory and demanded homework help at 10PM",
+        "EP tried to return a toy her daughter had already opened because it 'wasn't as fun as advertised'"
+      ]
+    },
+    {
+      "name": "ChoosingBeggars",
+      "posts": [
+        "CB wanted a custom cake for 50 people for $15. 'It doesn't need to taste good, just look nice.'",
+        "CB on FB Marketplace offered me 'free publicity' in exchange for my $800 camera",
+        "CB wanted my car for free 'because you'd be helping a family.' The car runs fine.",
+        "CB asked me to do a full wedding photography package for 'experience.' I have 12 years of experience.",
+        "CB: 'I know it says $5 but I'll give you $1. I'm doing you a favor by taking it.'"
+      ]
+    },
+    {
+      "name": "TalesFromRetail",
+      "posts": [
+        "Customer demanded a refund on a product that clearly doesn't exist. For 45 minutes.",
+        "Man spent 20 minutes arguing that our store policy was illegal. He made up the policy.",
+        "Lady came in furious about a sale that ended last month. She had the ad from last month.",
+        "Customer asked me to help find something 'blue, kind of round, maybe plastic.' That was it.",
+        "Guy returned a broken item with no receipt claiming he bought it here. We don't sell that brand."
+      ]
+    },
+    {
+      "name": "TalesFromTechSupport",
+      "posts": [
+        "Spent two hours on a call before the user revealed their screen had been unplugged the whole time",
+        "User called to say the computer was making noise. She'd been keeping her lunch in it.",
+        "Executive demanded I fix his laptop immediately. Problem: capslock was on.",
+        "User's files 'disappeared.' She had been saving to the desktop of a different computer for six months.",
+        "Customer called because their internet was slow. They were downloading 47 simultaneous software updates."
+      ]
+    },
+    {
+      "name": "sysadmin",
+      "posts": [
+        "User accidentally deleted the production database. Blamed the backup system. The backup ran fine.",
+        "CEO wants to share their password with their PA 'for convenience.' This is Monday.",
+        "Deployed a patch during a 'low usage' window. There is no low usage window. There never is.",
+        "Caught someone trying to plug a personal router into the server room because 'the WiFi is faster near here'",
+        "Got paged at 2AM. Root cause: a user had taped over the power button to stop their PC from sleeping."
+      ]
+    },
+    {
+      "name": "cscareerquestions",
+      "posts": [
+        "Got rejected from Google after 6 rounds of interviews. They said to try again in a year.",
+        "Is it normal to feel like a fraud after getting a job offer? I don't feel qualified.",
+        "Laid off from FAANG after 2 years. Here's what I learned and what I'd do differently.",
+        "Salary negotiation worked. Got $22k more just by saying 'is there any flexibility on that?'",
+        "3 years of CS degree vs 6 months of bootcamp — here's what nobody tells you"
+      ]
+    },
+    {
+      "name": "iamverysmart",
+      "posts": [
+        "Most people can't understand this concept because their brains aren't wired for abstract thought like mine",
+        "I stopped watching TV at age 7. I've read 4,000 books since then. I think that says enough.",
+        "My IQ was tested at 148. I find it difficult to relate to most people.",
+        "I corrected my professor's proof in front of the class. He wasn't happy but he was wrong.",
+        "I've been asked if I'm an AI because my arguments are too structured. That's a me problem."
+      ]
+    },
+    {
+      "name": "worldnews",
+      "posts": [
+        "EU announces new carbon emissions deal with first legally binding penalties for member states",
+        "Protests in multiple cities after government passes emergency surveillance legislation",
+        "Ceasefire collapses hours after announcement as fighting resumes in disputed region",
+        "UN report warns global food insecurity is at its worst level since tracking began in 1975",
+        "Historic floods displace 2 million people in Southeast Asia as monsoon season worsens"
+      ]
+    },
+    {
+      "name": "nba",
+      "posts": [
+        "He dropped 61 points in a Game 7. Nobody is talking about this enough.",
+        "Trade deadline was the most underwhelming in a decade. Nobody moved. Nothing happened.",
+        "This team is 14-2 since the midseason trade and nobody outside their city is covering them",
+        "Analyst says the era of pure isolation basketball is officially dead. Stats back him up.",
+        "Rookie just broke the franchise assist record set in 1987. He's 21 years old."
+      ]
+    },
+    {
+      "name": "soccer",
+      "posts": [
+        "Referee made a call so wrong that both managers shook hands and agreed it was wrong",
+        "This club paid €90m for a striker who has scored once in six months. Incredible.",
+        "The manager's post-match press conference was just 4 minutes of silence and then he left",
+        "Supporters started a food bank at the stadium. It now feeds 2,000 families a week.",
+        "Lower-league team knocks out the Premier League giant. Third time in four years."
+      ]
+    },
+    {
+      "name": "nfl",
+      "posts": [
+        "Team scored 47 points and still lost. Defense gave up 52.",
+        "Quarterback throws a perfect spiral 62 yards in warmup and then immediately throws a pick-six",
+        "The offensive coordinator called a timeout with 2 seconds left rather than just taking the field goal",
+        "Third-string running back carried the ball 38 times in the divisional round. 38 times.",
+        "This franchise hasn't won a playoff game in 20 years and they just fired the only coach who got them close"
+      ]
+    },
+    {
+      "name": "explainlikeimfive",
+      "posts": [
+        "ELI5: Why does my voice sound different in recordings than in my head?",
+        "ELI5: How does the internet actually physically work?",
+        "ELI5: Why do we dream, and why can't we remember most of them?",
+        "ELI5: Why does time feel like it goes faster as you get older?",
+        "ELI5: How does a vaccine teach your body to fight something it's never seen?"
+      ]
+    },
+    {
+      "name": "MapPorn",
+      "posts": [
+        "Every country that has never had a McDonald's",
+        "The entire Roman road network at its peak, overlaid on modern Europe",
+        "Population density of the world — this makes the empty parts feel even emptier",
+        "Every place on Earth more than 100 miles from a navigable body of water",
+        "Linguistic boundaries of Europe in 1914 vs. today, side by side"
+      ]
+    },
+    {
+      "name": "history",
+      "posts": [
+        "This photograph shows the last known living Confederate veteran. He died in 1959.",
+        "The 'new' Roman coins they keep finding look brand new. Roman quality control was remarkable.",
+        "Historical casualty numbers show the American Civil War killed more Americans than all other wars combined",
+        "The Viking settlement at L'Anse aux Meadows proves Norse people reached America 500 years before Columbus",
+        "WWII ended so recently that there are men alive today whose grandfathers fought in the Civil War"
+      ]
+    },
+    {
+      "name": "Art",
+      "posts": [
+        "Spent 8 months on this oil painting. Every hair on that horse is real.",
+        "[OC] My grandmother taught me to paint. This is her portrait.",
+        "Drew every building in my city skyline from memory. Got 94% accuracy.",
+        "First time using watercolors. I think I'm addicted.",
+        "Sculptor spent 3 years carving this figure entirely from a single piece of driftwood"
+      ]
+    },
+    {
+      "name": "music",
+      "posts": [
+        "What song feels like it was written specifically for one moment in your life?",
+        "Watched a deep-cut live performance from 1978 last night and I can't stop thinking about it",
+        "This B-side from 1994 is better than 90% of what's on the radio today",
+        "Album of the year and it has fewer than 50,000 listeners on Spotify",
+        "Found my dad's vinyl collection in the attic. I now understand why people hate streaming."
+      ]
+    },
+    {
+      "name": "pcgaming",
+      "posts": [
+        "Upgraded my GPU after 8 years. The difference is genuinely incomprehensible.",
+        "New driver update broke a game that was running perfectly fine for two years",
+        "Built my first PC. It took 9 hours. It posted on the first try and I cried.",
+        "This $40 indie game has better graphics settings than the AAA title that cost $70",
+        "Ray tracing is finally worth it. I will not be taking questions."
+      ]
+    },
+    {
+      "name": "nintendo",
+      "posts": [
+        "Nintendo just patched out a glitch that speedrunners have used for 15 years",
+        "My nephew asked me why Mario doesn't have a gun. I had no answer.",
+        "The new Zelda is 180 hours of gameplay and I've done none of the main quest",
+        "Nintendo announced a game, said nothing about it, and the internet exploded anyway",
+        "Switch 2 announced. The dock still doesn't charge the Joy-Cons."
+      ]
+    },
+    {
+      "name": "interestingasfuck",
+      "posts": [
+        "This is what the inside of a professional piano looks like when you play a chord",
+        "The footprint of a brown bear vs a human is almost indistinguishable",
+        "X-ray of a pregnant dolphin",
+        "This is how airport baggage carousels look from below",
+        "Footage of the first ever transatlantic phone call in 1927"
+      ]
+    },
+    {
+      "name": "NatureIsFuckingLit",
+      "posts": [
+        "Mantis shrimp has 16 types of color receptors. Humans have 3. This is what it probably sees.",
+        "A whale shark swam directly beneath this diver. The diver is six feet tall.",
+        "This is what a murmuration of one million starlings looks like at sunset",
+        "Pistol shrimp snaps its claw so fast it creates a plasma bubble hotter than the sun's surface",
+        "This deep sea creature has never been seen alive before. It just swam past the ROV."
+      ]
+    },
+    {
+      "name": "loseit",
+      "posts": [
+        "50 pounds down in 11 months. The hardest part wasn't the diet. It was believing I could.",
+        "I finally fit into the jeans I wore at my wedding 14 years ago. I'm crying in a Target dressing room.",
+        "What nobody tells you about losing weight: everything hurts less. Every single thing.",
+        "Plateau at 6 weeks — before you quit, read this. It happened to me too.",
+        "3 years of maintenance. Here's the thing that actually kept the weight off."
+      ]
+    },
+    {
+      "name": "running",
+      "posts": [
+        "Completed my first marathon at 52. Never ran a mile before last year.",
+        "3 months of running and my resting heart rate dropped from 82 to 58",
+        "I hated running for 30 years. Then I slowed down enough to actually enjoy it.",
+        "Mile 18 is where the race actually starts. Everything before that is just a warmup.",
+        "My shoes have 600 miles on them. How do I know when they're actually done?"
+      ]
+    },
+    {
+      "name": "hiking",
+      "posts": [
+        "Summited my first 14er yesterday. Here's what I wish someone had told me before.",
+        "Found an unmarked trail that leads to the most beautiful meadow I've ever seen",
+        "Bear came within 20 feet of our campsite. We did everything right. It still walked right through.",
+        "Completed the PCT solo in 157 days. Ask me anything.",
+        "Never hike alone, they said. I've been hiking alone for 15 years. Here's my safety system."
+      ]
+    },
+    {
+      "name": "recipes",
+      "posts": [
+        "My grandmother's lasagna recipe. She made me promise to share it after she passed.",
+        "One pan garlic butter shrimp pasta — 15 minutes, no special equipment",
+        "The secret to a perfect risotto is patience and this one cheap ingredient nobody uses",
+        "Made 6 loaves of sourdough before I got one that didn't taste like a sponge. Here's what changed.",
+        "My 10-year-old helped make these macarons. They were better than mine."
+      ]
+    },
+    {
+      "name": "legaladvice",
+      "posts": [
+        "My landlord entered my apartment without notice to 'inspect.' This is the third time. What can I do?",
+        "Employer hasn't paid me in three weeks. They keep saying 'payroll issues.' What are my options?",
+        "Car dealership added a $2,000 'documentation fee' after I signed the original contract. Is this legal?",
+        "HOA fined me $500 for a garden that was there before I bought the house. Do I have to pay?",
+        "Neighbor built a fence six inches onto my property. Survey is clear. They're refusing to move it."
+      ]
+    },
+    {
+      "name": "investing",
+      "posts": [
+        "Index funds vs individual stocks — 10 years of data from my own portfolio",
+        "I put 100% of my savings into one stock at 24. Here's what happened 15 years later.",
+        "The four-fund portfolio outperformed my 'sophisticated' strategy for the eighth year in a row",
+        "Why does everyone act like missing the 10 best days argument isn't also an argument for missing the 10 worst?",
+        "Hit my FI number at 41. First time I've opened my brokerage app without anxiety."
+      ]
+    },
+    {
+      "name": "webdev",
+      "posts": [
+        "The website I built in 2018 with vanilla HTML/CSS still loads in 0.3 seconds. My coworker's React app takes 9.",
+        "Asked the client what colors they wanted. They said 'make it pop.' I have now sent 47 mockups.",
+        "CSS Grid finally clicked for me. I've been fighting it for four years.",
+        "Built a full SaaS product in 6 weeks using tech I'd never touched before. Here's the stack.",
+        "Accessibility audit failed at every single level. The developer said 'it looks fine on my screen.'"
+      ]
+    },
+    {
+      "name": "python",
+      "posts": [
+        "Wrote a script in 20 minutes that replaced 3 hours of manual data entry per week",
+        "My first Python project was bad. My 50th Python project is also bad but in different ways.",
+        "Tried to use pandas for the first time. Spent 4 hours on a DataFrame merge that SQL does in one line.",
+        "Is it ok to still be using Python 2.7? Asking for a client that I cannot fire.",
+        "FastAPI vs Flask vs Django — I've built production apps in all three. Here's my honest take."
+      ]
+    },
+    {
+      "name": "BeAmazed",
+      "posts": [
+        "This 96-year-old woman still runs a 5K every single morning",
+        "Monk spent 40 years carving this temple into a cliff face by hand",
+        "This dog leads a blind cat around their house every day so she doesn't get lost",
+        "Man has been collecting and cataloging every unique rock he finds for 60 years. 120,000 rocks.",
+        "This 10-year-old wrote a letter to NASA about a mathematical error. They corrected it."
+      ]
+    },
+    {
+      "name": "dogs",
+      "posts": [
+        "My dog hears the word 'walk' and forgets everything he has ever known",
+        "After 6 foster dogs, we finally failed and kept one. Meet our permanent failure.",
+        "Dog at the airport has a vest that says 'Pet me, I'm not working.' The airport lets him roam free.",
+        "Rescue greyhound saw grass for the first time in his life. Video inside.",
+        "My dog sat outside the ER for 11 hours waiting for me. He is not allowed inside."
+      ]
+    },
+    {
+      "name": "anime",
+      "posts": [
+        "The animation in this one-minute fight scene took an entire studio 6 months to produce",
+        "Manga readers, how are you holding up after last week's chapter?",
+        "I recommended this show as 'pretty chill.' My friend called me at 2AM crying.",
+        "Unpopular opinion: the filler arc is actually the best part of this series",
+        "This 'background character' from episode 3 turned out to be crucial to the finale. The clues were all there."
+      ]
+    },
+    {
+      "name": "antiwork",
+      "posts": [
+        "My boss asked me to 'show more passion for the company.' I make $15/hour with no benefits.",
+        "Quit my job with no notice after two years of empty promises. Best decision I've ever made.",
+        "Job posting requires 5 years experience in a technology that's been out for 2 years",
+        "Company emailed the whole office to say raises are frozen. The CEO announced a new yacht that same week.",
+        "Third consecutive Monday where my PTO request was 'denied due to business need.' What business need? It's a Tuesday."
+      ]
+    },
+    {
+      "name": "OutOfTheLoop",
+      "posts": [
+        "What's the deal with everyone suddenly hating a celebrity I've never heard of?",
+        "Why is everyone on Twitter talking about a subreddit being 'locked'?",
+        "Can someone explain why this meme format is suddenly everywhere?",
+        "Why did everyone freak out about a random sentence the CEO of a random company said?",
+        "What happened between these two streamers? I've seen 40 posts today but nobody explains the original event."
+      ]
+    },
+    {
+      "name": "NoStupidQuestions",
+      "posts": [
+        "Is it weird to eat lunch alone at a restaurant? I feel like people judge me.",
+        "Why do hospitals always smell the same? Like, globally, the same.",
+        "If you win the lottery, do you have to tell anyone, legally?",
+        "Why is it socially acceptable to ask 'how are you' but not actually want an answer?",
+        "Is there a polite way to end a phone call with someone who won't stop talking?"
+      ]
+    },
+    {
+      "name": "whatsthisbug",
+      "posts": [
+        "Found this in my bathroom. It was fast and I'm not okay.",
+        "Dozens of these appeared in my backyard overnight after the rain",
+        "Is this a tick? I found it on my dog and I need to know immediately",
+        "Never seen one this color before. Southeast US, found near the window.",
+        "This crawled out of a bag of groceries. Please help. I live in Ohio."
+      ]
+    },
+    {
+      "name": "IDontWorkHereLady",
+      "posts": [
+        "I was shopping in a blue polo. The store employees wear blue polos. You see where this is going.",
+        "Man in a suit walks into a car dealership to look at cars. Spent 45 minutes helping four other customers.",
+        "Nurse on her day off stopped at the pharmacy. Spent an hour answering people's medication questions.",
+        "I was waiting outside a restaurant in a white shirt. A family of four sat down and handed me their menus.",
+        "Veteran wearing fatigues at the VA. Three people in the waiting room asked me to process their paperwork."
+      ]
+    },
+    {
+      "name": "KidsAreFuckingStupid",
+      "posts": [
+        "My 5-year-old tried to convince me that he already ate dinner by showing me a drawing of a plate",
+        "My daughter insisted she didn't eat the cookie. Her entire face was covered in chocolate.",
+        "Kid at the park told me I was 'very old, probably about 40.' I'm 29.",
+        "My son asked why he needs to wash his hands before dinner. He had just been eating dirt.",
+        "6-year-old gave a very detailed lie about why the vase was broken. The dog doesn't have arms."
+      ]
+    },
+    {
+      "name": "MealPrepSunday",
+      "posts": [
+        "5 lunches, 5 dinners in 2 hours for $28. Full breakdown in comments.",
+        "First time doing a full meal prep and I underestimated how many containers I'd need by 100%",
+        "High protein week: 150g per day without touching a protein shake",
+        "This one sauce recipe turns into 6 different meals depending on what you add",
+        "Finally stopped eating sad desk lunches. 4 weeks in and it's changed everything."
+      ]
+    },
+    {
+      "name": "javascript",
+      "posts": [
+        "Why does `[] + []` equal an empty string but `[] + {}` equals '[object Object]'?",
+        "TypeScript is just JavaScript with extra steps that somehow make me a worse programmer",
+        "Async/await is great until you're 15 layers deep and something fails silently",
+        "My coworker wrote a 400-line function with 17 nested callbacks. I'm not allowed to touch it.",
+        "Node.js 22 releases and somehow the first comment in every thread is still about npm vs yarn"
+      ]
+    },
+    {
+      "name": "DotA2",
+      "posts": [
+        "New patch dropped and somehow they nerfed a hero who was already unplayed at every level",
+        "My carry abandoned in the first 3 minutes because their rune was stolen. We won.",
+        "6,000 hours in and I am no better than when I started. This game is the greatest equalizer.",
+        "Techies was removed and re-added three times. Here we go again.",
+        "Pro player streams his pub game and immediately has 40,000 people watching him die to creeps"
+      ]
+    },
+    {
+      "name": "baseball",
+      "posts": [
+        "The shift ban has completely changed how I watch the game. More balls in play every single inning.",
+        "This team has called up four prospects from triple-A this week. The rebuild is officially over.",
+        "He hit a walk-off grand slam off his former team's closer in the playoffs. That's cinema.",
+        "Pitcher threw a complete-game shutout on 98 pitches. In 2025. That's unheard of.",
+        "Ballpark food prices: a hot dog is now $18. The bun is separate."
+      ]
+    },
+    {
+      "name": "hockey",
+      "posts": [
+        "Goalie made 58 saves and his team still lost 2-1. What do you even say?",
+        "Fight broke out between benches after the buzzer. Refs watched for 30 seconds before intervening.",
+        "Fourth-line enforcer who hasn't scored in 3 years just scored the overtime winner in game 7",
+        "This minor-league arena has $5 beer and $3 nachos and a team that actually tries. This is the real NHL.",
+        "Power play went 0 for 8 tonight. We've been saying it for months. The system doesn't work."
+      ]
+    },
+    {
+      "name": "Cooking",
+      "posts": [
+        "The difference between good and great soup is almost always just more time on the stove",
+        "Tried a new technique for pan sauce today. I will never cook a steak another way.",
+        "Learned to break down a whole chicken after watching one video. Saved $40 this week alone.",
+        "Why does restaurant pasta always taste better? I finally figured it out.",
+        "My mise en place is always perfect and my kitchen still somehow becomes a disaster"
+      ]
+    },
+    {
+      "name": "AskScience",
+      "posts": [
+        "Why does hair go gray but eyebrows often stay dark for much longer?",
+        "How do plants 'know' which direction is up when growing from a seed?",
+        "If space is expanding, is it expanding into something? Or is space itself just bigger?",
+        "Why does hot water sometimes freeze faster than cold water?",
+        "How does anesthesia actually work? What does 'putting someone under' actually mean chemically?"
+      ]
+    },
+    {
+      "name": "WatchPeopleDieInside",
+      "posts": [
+        "Reporter realizes live on air that he's been mispronouncing his own name for three months",
+        "Woman unwraps what she thinks is a surprise gift. It's a framed photo of her ex.",
+        "Chef presents dish to Gordon Ramsay with full confidence. The camera does the rest.",
+        "Dad's face when he finds out his 'boy' is actually a girl in the ultrasound. He wanted a girl.",
+        "Student answers question in lecture with absolute certainty. Professor's pause says everything."
+      ]
+    },
+    {
+      "name": "AbsoluteUnits",
+      "posts": [
+        "This is a normal-sized horse standing next to a Shire horse",
+        "The biggest pumpkin at the state fair weighed 2,600 pounds. Look at this thing.",
+        "My cat is 28 pounds. The vet says he is healthy. The vet is lying.",
+        "A Flemish Giant rabbit sitting next to a normal rabbit for scale",
+        "This is a Magellan's Cloud, a dwarf galaxy, next to our galaxy. We are the small one here."
+      ]
+    },
+    {
+      "name": "malelivingspace",
+      "posts": [
+        "First apartment, $0 budget, second-hand everything. Six months later.",
+        "Took all of your advice from my last post and here's what the living room looks like now",
+        "27 years old, first time decorating a space that's entirely mine. Terrified but kind of proud.",
+        "Found a $15 lamp at Goodwill that I thought was ugly. Turns out it's mid-century modern worth $400.",
+        "Finally got rid of the futon. This is what replacing it with an actual sofa does to a room."
+      ]
+    }
+  ]
+}
