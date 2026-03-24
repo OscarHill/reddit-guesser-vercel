@@ -133,10 +133,34 @@ html, body, #root {
   opacity: 0.7;
 }
 
+.title-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
 .title-card__text {
   line-height: 1.5;
   color: var(--text);
   word-break: break-word;
+}
+
+.title-card__link {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--muted);
+  text-underline-offset: 3px;
+}
+
+.title-card__link:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
+.title-card__date {
+  font-size: 11px;
+  color: var(--muted);
 }
 
 /* ── Hint bar ──────────────────────────────────────────────────────────────── */

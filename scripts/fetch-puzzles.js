@@ -23,6 +23,10 @@ function isGoodTitle(title) {
   return true
 }
 
+function formatDate(utc) {
+  return new Date(utc * 1000).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
+}
+
 async function fetchTopPosts(subreddit, retries = 2) {
   const url = `https://www.reddit.com/r/${subreddit}/top.json?t=month&limit=30`
   for (let attempt = 0; attempt <= retries; attempt++) {
@@ -39,8 +43,12 @@ async function fetchTopPosts(subreddit, retries = 2) {
       }
       const data = await res.json()
       const posts = data?.data?.children
-        ?.map(p => p.data.title)
-        ?.filter(isGoodTitle)
+        ?.map(p => ({
+          title: p.data.title,
+          url: `https://reddit.com${p.data.permalink}`,
+          date: formatDate(p.data.created_utc),
+        }))
+        ?.filter(p => isGoodTitle(p.title))
         ?.slice(0, MIN_POSTS)
       if (!posts || posts.length < MIN_POSTS) {
         console.warn(`  Only ${posts?.length ?? 0} usable posts for r/${subreddit}`)
